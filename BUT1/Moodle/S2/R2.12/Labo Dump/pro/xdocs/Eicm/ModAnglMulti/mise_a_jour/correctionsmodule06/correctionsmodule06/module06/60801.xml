@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">You%20need%20a%20different%20application%20to%20write%20audio%20files%20on%20a%20CD%2E</enonce>
+		<enonce type="1">The%20AAC%20format%20allows%20you%20to%20protect%20audio%20files%20against%20piracy%2E</enonce>
+		<enonce type="0">Format%20choices%20are%20final%2E</enonce>
+		<enonce type="1">MP3%20requires%20a%20higher%20encoding%20rate%20than%20AAC%2E%20</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Saving%20options%20and%20encoding%20formats</soustitre>
+	<nom_exercice>Listening%20</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060801%2Eswf</url_son><decoupe_son>1,114,184,246,369,476,521,647</decoupe_son><texte>%5F%5FOnce%20you%20have%20completed%20editing%20operation%2C%20you%20will%20want%20to%20save%20your%20project%20or%20even%20burn%20it%20on%20to%20a%20CD%20thanks%20to%20built%2Din%20cd%2Dburning%20features%2E%20%0D%5F%5FThe%20%22save%20as%22%20menu%20offers%20multiple%20formats%2C%20whether%20you%20want%20to%20compress%20files%20or%20not%2E%20%5F%5FBear%20in%20mind%20some%20compression%20formats%20are%20%22proprietary%22%20before%20you%20opt%20for%20one%2E%0D%5F%5FWhile%20Mp3%20is%20the%20most%20popular%2C%20other%20less%20known%20formats%20such%20as%20Windows%20Media%20WMA%2C%20or%20Ogg%20Vorbis%20provide%20better%20compression%20rates%2E%20%5F%5FIn%20any%20case%2C%20you%20can%20always%20find%20a%20wide%20variety%20of%20audio%20file%20converters%2C%20which%20will%20let%20you%20convert%20your%20files%20once%20they%20have%20been%20created%2E%20%0D%5F%5FAAC%20is%20one%20of%20the%20most%20advanced%20formats%2E%20%5F%5FIt%20is%20currently%20used%20on%20portable%20digital%20audio%20devices%2C%20as%20well%20as%20for%20copyrighted%20musical%20files%20downloads%2C%20and%20allows%20digital%20rights%20management%2E%20%0D%5F%5FTo%20provide%20the%20same%20sound%20quality%20you%20will%20need%20to%20use%2064kbits%2Fs%20in%20WMA%20format%20whereas%20128%20would%20be%20necessary%20with%20the%20%20MP3%20format%2E</texte><decoupe_texte>0,148,237,319,452,596,639,788</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="130" posy="76" /><bouton posx="13" posy="107" /><bouton posx="13" posy="138" /><bouton posx="13" posy="184" /><bouton posx="253" posy="184" /><bouton posx="13" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

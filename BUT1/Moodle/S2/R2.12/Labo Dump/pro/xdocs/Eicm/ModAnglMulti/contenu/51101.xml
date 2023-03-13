@@ -1,0 +1,16 @@
+<LFIXML type="dnd_image" contact_url="http://www.laforme.net">
+	<couples>
+		<element posx="156" posy="165">1%2E%09Timeline</element>
+		<element posx="352" posy="112">2%2E%09Jog%20disk</element>
+		<element posx="156" posy="193">3%2E%09Add%20video%20tracks%20here</element>
+		<element posx="156" posy="221">4%2E%09Add%20Audio%20tracks%20here</element>
+		<element posx="-51" posy="199">5%2E%09Toolbox</element>
+		<element posx="368" posy="86">6%2E%09Sequence%20Timecode</element>
+	</couples>
+	<imageCibleDrop>images%2FI051101%2Ejpg</imageCibleDrop>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Drag and drop</soustitre>
+	<nom_exercice>Word%20Match%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20the%20words%20to%20the%20right%20place</texte_aide>
+</LFIXML>

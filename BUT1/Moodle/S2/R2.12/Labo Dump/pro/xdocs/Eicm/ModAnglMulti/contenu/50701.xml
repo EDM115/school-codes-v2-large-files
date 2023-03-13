@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Each%20type%20of%20video%20equipment%20has%20its%20own%20way%20to%20mark%20time%2E</enonce>
+		<enonce type="0">Typing%20in%20the%20timecode%20is%20the%20only%20way%20to%20set%20it%2E</enonce>
+		<enonce type="0">Timecode%20only%20applies%20to%20video%2E</enonce>
+		<enonce type="0">You%20can%27t%20change%20the%20location%20of%20timecode%2E</enonce>
+		<enonce type="1">Timecode%20is%20not%20always%20included%20in%20videos%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Using%20the%20Timecode</soustitre>
+	<nom_exercice>Listening%20%20%20%287%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050701%2Eswf</url_son><decoupe_son>1,121,232,342,438,498,567,629</decoupe_son><texte>%5F%5FTimecode%20also%20known%20as%20%22sync%22%20which%20is%20short%20for%20%22synchronization%22%20is%20provided%20by%20digital%20video%20equipment%2C%20and%20serves%20as%20a%20universal%20reference%2E%20%0D%5F%5FIt%20marks%20specific%20frames%20precisely%2C%20and%20is%20vital%20whenever%20you%20need%20to%20capture%20exactly%20the%20same%20frames%20you%20identified%20or%20captured%20previously%2E%20%5F%5FThere%20are%20many%20ways%20you%20can%20enter%20the%20timecode%2C%20either%20by%20typing%20it%20in%2C%20by%20dragging%20the%20cursor%2C%20or%20pressing%20the%20%22plus%22%20or%20minus%20keys%2E%5F%5F%20The%20timecode%20may%20be%20%22burnt%22%20into%20your%20final%20production%20or%20not%2C%20depending%20on%20what%20you%20want%20the%20sequence%20to%20be%20created%20for%2E%20%0D%5F%5FThe%20display%20shows%20hours%2C%20minutes%2C%20seconds%2C%20and%20frames%2E%20%5F%5FWhen%20you%20are%20working%20with%20audio%20and%20video%20you%20need%20to%20make%20sure%20that%20both%20play%20in%20time%20with%20each%20other%2E%20%0D%5F%5FTimecode%20acts%20as%20a%20stamp%20on%20a%20computer%20on%20particular%20frames%20in%20a%20movie%20file%2E%20%5F%5FMost%20applications%20will%20let%20you%20choose%20where%20you%20want%20it%20to%20be%20displayed%20on%20the%20screen%20before%20you%20start%20rendering%2E</texte><decoupe_texte>0,147,290,425,551,608,715,794</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="13" posy="92" /><bouton posx="347" posy="107" /><bouton posx="13" posy="153" /><bouton posx="330" posy="153" /><bouton posx="13" posy="199" /><bouton posx="70" posy="214" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

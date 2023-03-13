@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Compression%20requires%20more%20disk%20space%2E</enonce>
+		<enonce type="1">The%20MPEG%20compression%20saves%20space%20by%20getting%20rid%20of%20redundant%20information%2E</enonce>
+		<enonce type="1">You%20need%20a%20CODEC%20to%20view%20MPEG%20videos%2E</enonce>
+		<enonce type="1">The%20higher%20the%20compression%20rate%20is%2C%20the%20lower%20the%20quality%20will%20be%2E</enonce>
+		<enonce type="0">High%20resolution%20is%20ideal%20for%20videos%20to%20be%20put%20on%20the%20Internet%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Compression</soustitre>
+	<nom_exercice>Listening%20%20%20%288%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050801%2Eswf</url_son><decoupe_son>1,73,178,345,475,561,594,709</decoupe_son><texte>%5F%5FOne%20of%20the%20options%20to%20deal%20with%20the%20huge%20amounts%20of%20data%20required%20for%20high%20quality%20video%20is%20compression%2E%20%0D%5F%5FThis%20process%20reduces%20the%20size%20of%20files%2C%20and%20maintains%20acceptable%20quality%20by%20eliminating%20unimportant%20data%2E%20%5F%5FOf%20course%20there%20are%20levels%20of%20compression%20and%20many%20standards%2C%20which%20all%20require%20the%20installation%20of%20compressor%2Ddecompressor%20systems%20known%20as%20CODECS%20%20which%20you%20need%20to%20install%20to%20view%20or%20compress%20sequences%2E%20%0D%5F%5FThe%20trick%20to%20MPEG%20format%20is%20that%20you%20store%20the%20full%20information%20in%20one%20frame%2C%20and%20then%20predict%20other%20frames%20and%20only%20store%20the%20changes%20in%20the%20following%20frames%2E%20%5F%5FOnly%20relevant%20changes%20in%20colour%2C%20size%20and%20position%20are%20stored%20in%20intermediary%20frames%2E%20%5F%5FThis%20saves%20a%20tremendous%20amount%20of%20space%2E%20%5F%5FAs%20with%20digital%20photography%2C%20you%20will%20be%20given%20the%20choice%20of%20how%20much%20you%20want%20to%20compress%2C%20which%20means%20you%20have%20to%20opt%20for%20better%20quality%20or%20less%20disk%20space%2E%20%0D%5F%5FIf%20you%20are%20creating%20a%20video%20which%20will%20be%20later%20published%20on%20the%20Worldwide%20web%2C%20it%20is%20advisable%20to%20opt%20for%20a%20compression%20format%20with%20both%20high%20compression%20and%20a%20low%20resolution%2E</texte><decoupe_texte>0,108,216,425,587,675,718,880</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="223" posy="61" /><bouton posx="13" posy="122" /><bouton posx="106" posy="153" /><bouton posx="195" posy="168" /><bouton posx="65" posy="184" /><bouton posx="13" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

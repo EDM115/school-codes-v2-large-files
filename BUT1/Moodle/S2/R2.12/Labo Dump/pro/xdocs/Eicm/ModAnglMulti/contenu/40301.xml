@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">The%20hand%20tools%20zooms%20in%20to%20the%20picture%2E</enonce>
+		<enonce type="0">The%20%22Fit%20to%20screen%22%20option%20magnifies%20the%20picture%2E</enonce>
+		<enonce type="1">There%20are%20many%20ways%20to%20adjust%20the%20viewing%20of%20a%20picture%2E%20</enonce>
+		<enonce type="0">The%20Navigator%20Palette%20is%20a%20way%20to%20resize%20images%2E</enonce>
+	</propositions>
+	<titre>Digital%20Imaging%20</titre>
+	<soustitre>Viewing%20images%0D</soustitre>
+	<nom_exercice>Listening%20%20%20%283%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040301%2Eswf</url_son><decoupe_son>1,40,89,195,244,398,445</decoupe_son><texte>%5F%5FThe%20view%20menu%20offers%20quite%20a%20wide%20range%20of%20features%2E%20%5F%5FAs%20you%20work%20you%20will%20find%20it%20convenient%20to%20zoom%20in%20and%20out%2E%20%5F%5FYou%20could%20also%20use%20the%20%E2%80%9Chand%E2%80%9D%20tool%20to%20move%20the%20picture%20if%20you%20decide%20to%20zoom%20in%20to%20any%20particular%20part%20which%20you%20need%20to%20work%20on%2E%20%0D%5F%5FThere%20are%20many%20ways%20you%20can%20magnify%20or%20reduce%20your%20view%2E%20%5F%5FThis%20%20may%20be%20achieved%20by%20using%20the%20dragging%20tool%20over%20the%20part%20you%20want%20to%20zoom%20in%20to%2C%20or%20%22fit%20to%20screen%22%2C%20in%20which%20case%20your%20image%20will%20be%20resized%20so%20that%20you%20can%20see%20a%20hundred%20percent%20of%20it%2E%0D%5F%5FKeyboard%20shortcuts%20are%20also%20handy%20alternatives%2E%20%0D%5F%5FThe%20Photoshop%20Navigator%20palette%20lets%20you%20drag%20the%20view%20box%20into%20the%20thumbnail%20of%20the%20image%2C%20which%20represents%20the%20outer%20boundaries%20of%20the%20image%20window%20so%20that%20you%20actually%20navigate%20on%20the%20picture%2E</texte><decoupe_texte>0,55,117,250,309,504,555</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="308" posy="15" /><bouton posx="253" posy="30" /><bouton posx="13" posy="76" /><bouton posx="346" posy="76" /><bouton posx="13" posy="138" /><bouton posx="13" posy="153" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

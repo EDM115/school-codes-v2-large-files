@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Working%20on%20one%20layer%20does%20not%20affect%20the%20image%20you%20are%20editing%2E%20%20</enonce>
+		<enonce type="1">Layers%20of%20the%20same%20image%20may%20have%20different%20resolutions%2E</enonce>
+		<enonce type="1">You%20may%20not%20use%20more%20than%2024%20channels%20simultaneously%2E</enonce>
+		<enonce type="1">The%20channel%20palette%20allows%20you%20to%20view%20changes%2E</enonce>
+	</propositions>
+	<titre>Digital%20Imaging%20%20</titre>
+	<soustitre>Working%20with%20Channels%20and%20Layers</soustitre>
+	<nom_exercice>Listening%20%20%20%287%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040701%2Eswf</url_son><decoupe_son>1,77,149,249,338,433,484,539</decoupe_son><texte>%5F%5FYou%20will%20probably%20have%20to%20manipulate%20images%20containing%20several%20layers%2C%20or%20create%20layers%20yourself%2E%20%5F%5FProfessional%20applications%20allow%20you%20to%20create%20a%20maximum%20of%208000%20combined%20layers%2E%20%0D%5F%5FThe%20idea%20behind%20multiple%20layers%20is%20that%20they%20let%20you%20edit%20an%20image%20without%20altering%20your%20original%20image%20data%2E%20%5F%5FThey%20act%20as%20sheets%20piled%20on%20top%20of%20each%20other%2C%20and%20each%20sheet%20contained%20in%20a%20file%20should%20have%20the%20same%20resolution%2E%20%0D%20%5F%5FWhen%20you%20create%20a%20new%20layer%2C%20it%20is%20transparent%20by%20default%2C%20but%20you%20may%20alter%20the%20colours%20of%20the%20pixels%20at%20any%20time%2E%20%0D%5F%5FChannels%20store%20useful%20information%20about%20colour%20elements%2E%0D%5F%5FDepending%20on%20the%20mode%20you%20are%20using%20there%20can%20be%20four%20or%20more%20channels%2E%20%5F%5FYou%20may%20use%20up%20to%2024%20channels%20including%20%22Alpha%22%20channels%20which%20can%20be%20used%20to%20edit%20masks%2E</texte><decoupe_texte>0,100,184,296,415,534,593,667</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="185" posy="30" /><bouton posx="13" posy="61" /><bouton posx="230" posy="76" /><bouton posx="16" posy="122" /><bouton posx="13" posy="153" /><bouton posx="13" posy="168" /><bouton posx="67" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Pictures%20can%20be%20filed%20into%20folders%20as%20you%20import%20them%20from%20a%20camera%2E</enonce>
+		<enonce type="1">You%20need%20an%20interface%20to%20digitise%20documents%2E</enonce>
+		<enonce type="1">TWAIN%20refers%20to%20%20hardware%2E</enonce>
+		<enonce type="1">Image%20touching%20up%20can%20only%20be%20performed%20through%20computer%20software%2E</enonce>
+	</propositions>
+	<titre>Digital%20Imaging%20%20</titre>
+	<soustitre>Digital%20Photography</soustitre>
+	<nom_exercice>Listening%20%20%20%288%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040801%2Eswf</url_son><decoupe_son>1,86,168,243,290,415,554,707</decoupe_son><texte>%5F%5FIf%20you%20are%20using%20a%20digital%20camera%2C%20you%20will%20enjoy%20the%20importing%20capabilities%20Digital%20Imaging%20Applications%20offer%2E%20%20%5F%5FMost%20will%20let%20you%20rename%2C%20and%20sort%20your%20photographs%20seamlessly%20as%20you%20transfer%20them%20to%20your%20PC%2E%20%0D%5F%5FMost%20cameras%20will%20be%20recognized%20by%20your%20operating%20system%20as%20soon%20as%20you%20connect%20them%20to%20your%20computer%2E%20%5F%5FYou%20may%20want%20to%20download%20thumbnails%20of%20the%20images%2E%20%5F%5FReducing%20the%20red%2Deyes%20caused%20by%20flash%20photography%20is%20a%20popular%20option%2C%20and%20this%20task%20can%20be%20more%20or%20less%20automated%20according%20to%20how%20professional%20your%20application%20is%2E%20%0D%20%5F%5FOnce%20installed%20on%20your%20machine%2C%20the%20TWAIN%20standard%20interface%20which%20is%20a%20software%20layer%20will%20help%20you%20import%20graphics%20from%20a%20scanner%20and%20a%20camera%20for%20later%20edition%2E%20%5F%5FThe%20latest%20digital%20cameras%20also%20come%20with%20built%2Din%20basic%20editing%20features%2C%20so%20that%20you%20can%20adjust%20brightness%2C%20contrast%2C%20and%20even%20create%20panoramas%20even%20before%20you%20connect%20to%20a%20PC%2E%0D%5F%5FBut%20needless%20to%20say%20software%20edition%20provides%20much%20better%20performance%2E</texte><decoupe_texte>0,116,215,320,373,543,709,890</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="259" posy="30" /><bouton posx="13" posy="76" /><bouton posx="223" posy="92" /><bouton posx="152" posy="107" /><bouton posx="16" posy="153" /><bouton posx="175" posy="184" /><bouton posx="13" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide></texte_aide>
+</LFIXML>

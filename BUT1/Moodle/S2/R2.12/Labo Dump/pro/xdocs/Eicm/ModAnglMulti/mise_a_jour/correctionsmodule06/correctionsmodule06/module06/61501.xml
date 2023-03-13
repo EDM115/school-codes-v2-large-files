@@ -1,0 +1,52 @@
+<LFIXML type="dnd_texte_texte" contact_url="http://www.laforme.net">
+	<contenu>
+		<legende />
+		<contexte />
+		<textedrop posx="29" posy="228" largeur="716" hauteur="113">
+			<extrait type="texte" >You%20should%20</extrait>
+			<extrait type="dnd" classe="8">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20the%20amplitude%20modulation%2C%20it%20is%20much%20</extrait>
+			<extrait type="dnd" classe="16">%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20high%2E%20This%20program%20is%20as%20good%20</extrait>
+			<extrait type="dnd" classe="24">%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20yours%3A%20it%20provides%20</extrait>
+			<extrait type="dnd" classe="32">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20editing%20features%2E%20I%20%20have%20doubled%20the%20reverb%20effect%2C%20there%20is%20now%20</extrait>
+			<extrait type="dnd" classe="40">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20</extrait>
+			<extrait type="texte" >before%2E%20This%20program%20can%20work%20on%2096%20tracks%20simultaneously%3A%20this%20is%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20mine%20which%20can%20only%20do%2048%2E%20Unfortunately%20I%20don%27t%20have%20</extrait>
+			<extrait type="dnd" classe="1">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20time%20to%20test%20all%20the%20effects%20we%20can%20apply%2E%20Should%20I%20use%20</extrait>
+			<extrait type="dnd" classe="9">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20delay%20on%20that%20part%20of%20the%20track%3F%20That%20sounds%20a%20bit%20dull%3A%20I%20think%20you%20should%20add%20a%20</extrait>
+			<extrait type="dnd" classe="56">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20echo%20on%20the%20piano%2E</extrait>
+			<extrait type="texte" >%3Cbr%3E</extrait>
+		</textedrop>
+		<textedrag posx="29" posy="114" largeur="713" hauteur="87">
+			<extrait type="dnd" classe="40">twice%20as%20much</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="8">decrease</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="48">twice%20as%20many%20as</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="24">as</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="32">as%20many</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="56">a%20little</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="1">much</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="9">less</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="16">too</extrait>
+		</textedrag>
+	</contenu>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Drag & Drop</soustitre>
+	<environnement>Language%20Structures%20%20%20</environnement>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Type%20in%20the%20correct%20forms%20to%20complete%20the%20text</texte_aide>
+</LFIXML>

@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="600" posy="405.8" largeur="104" hauteur="30">moving</element>
+			<element type="1" posx="215" posy="264.8" largeur="104" hauteur="30">still</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="210.8" largeur="104" hauteur="30">lower</element>
+			<element type="1" posx="510" posy="264.8" largeur="104" hauteur="30">upper</element>
+		</couple>
+		<couple>
+			<element type="0" posx="600" posy="210.8" largeur="104" hauteur="30">automatically</element>
+			<element type="1" posx="360" posy="264.8" largeur="104" hauteur="30">manually</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="121.8" largeur="104" hauteur="30">shrink</element>
+			<element type="1" posx="365" posy="131.6" largeur="104" hauteur="30">stretch</element>
+		</couple>
+		<couple>
+			<element type="0" posx="600" posy="320.8" largeur="104" hauteur="30">analog</element>
+			<element type="1" posx="260" posy="169.8" largeur="104" hauteur="30">digital</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="320.8" largeur="104" hauteur="30">out%20point</element>
+			<element type="1" posx="460" posy="169.8" largeur="167.4" hauteur="30">in%20point</element>
+		</couple>
+		<couple>
+			<element type="0" posx="600" posy="121.8" largeur="104" hauteur="30">gain</element>
+			<element type="1" posx="260" posy="359.8" largeur="104" hauteur="30">loss</element>
+		</couple>
+		<couple>
+			<element type="0" posx="355" posy="84.8" largeur="104" hauteur="30">output%20device</element>
+			<element type="1" posx="355" posy="389.8" largeur="104" hauteur="30">input%20device</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="400.8" largeur="104" hauteur="30">off%2Dline</element>
+			<element type="1" posx="460" posy="359.8" largeur="104" hauteur="30">on%2Dline</element>
+		</couple>
+	</couples>
+	<titre>Video%2DEditing%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%285%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20opposite%20by%20drawing%20an%20arrow%2E</texte_aide>
+</LFIXML>

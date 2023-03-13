@@ -1,0 +1,16 @@
+<LFIXML type="dnd_image" contact_url="http://www.laforme.net">
+	<couples>
+		<element posx="141" posy="22">1%2E%09Time%20ruler</element>
+		<element posx="193" posy="142">2%2E%09Region</element>
+		<element posx="-30" posy="86">3%2E%09Level%20Ruler</element>
+		<element posx="1" posy="247">4%2E%09Playbar</element>
+		<element posx="431" posy="228">5%2EMaximise%20width</element>
+		<element posx="396" posy="255">6%2E%09Selection%20status%20box</element>
+	</couples>
+	<imageCibleDrop>images%2FI060901%2Ejpg</imageCibleDrop>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Words and expressions</soustitre>
+	<nom_exercice>Word%20Match%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20the%20words%20to%20the%20right%20place</texte_aide>
+</LFIXML>

@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Undo%20means%20to%20repeat%20an%20action%20</enonce>
+		<enonce type="1">You%20can%20repeat%20an%20action%20any%20amount%20of%20times%2E</enonce>
+		<enonce type="1">In%20the%20%22non%20destructive%22%20mode%2C%20no%20change%20is%20final</enonce>
+		<enonce type="0">The%20%22%20Snap%20%22%20feature%20allows%20manual%20stitching%20of%20audio%20clips%20%20</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Editing%20process</soustitre>
+	<nom_exercice>Listening%20%20%20</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060401%2Eswf</url_son><decoupe_son>1,146,220,361,442</decoupe_son><texte>%5F%5FTake%20advantage%20of%20the%20powerful%20undo%20feature%20which%20lets%20you%20go%20back%20as%20far%20as%20you%20want%20in%20your%20editing%20process%20and%20cancel%20any%20operation%20with%20unlimited%20undo%20and%20redo%20capabilities%2E%0D%5F%5F%20Most%20professional%20applications%20provide%20non%2Ddestructive%20editing%2C%20so%20that%20they%20keep%20track%20of%20edits%2E%20%0D%5F%5FThis%20way%2C%20when%20you%20delete%20a%20section%20it%20is%20not%20actually%20deleted%2C%20and%20the%20program%20just%20skips%20the%20deleted%20section%20during%20playback%2C%20and%20you%20can%20always%20retrieve%20the%20track%20as%20it%20was%20in%20its%20original%20state%2E%20%0D%5F%5FAs%20for%20the%20magnify%20tool%2C%20it%20is%20quite%20handy%20as%20it%20lets%20you%20zoom%20in%20to%20a%20section%2E%20%0D%5F%5FThe%20%22SNAP%22%20mode%20enables%20you%20to%20easily%20move%20clips%20on%20the%20timeline%20so%20that%20they%20automatically%20align%20themselves%20with%20the%20time%2Dgrid%2E</texte><decoupe_texte>0,180,282,484,567</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="13" posy="92" /><bouton posx="13" posy="138" /><bouton posx="13" posy="168" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

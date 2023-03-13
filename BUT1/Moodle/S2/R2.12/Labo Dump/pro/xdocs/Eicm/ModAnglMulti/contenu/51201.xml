@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="400" posy="235.6" largeur="104" hauteur="30">collection%20of%20instruments</element>
+			<element type="1" posx="147" posy="307.6" largeur="104" hauteur="30">toolset</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="130" largeur="104" hauteur="30">colour%20information%20such%20as%20hue%20and%20saturation</element>
+			<element type="1" posx="147" posy="272" largeur="104" hauteur="30">chroma</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="379.6" largeur="104" hauteur="30">smoothly%20moving%20from%20one%20video%20clip%20or%20photo%20to%20another</element>
+			<element type="1" posx="147" posy="163.6" largeur="104" hauteur="30">cross%20fading</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="343.6" largeur="104" hauteur="30">single%20still%20picture</element>
+			<element type="1" posx="147" posy="130" largeur="104" hauteur="30">frame</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="163.6" largeur="104" hauteur="30">video%2Drecording</element>
+			<element type="1" posx="147" posy="235.6" largeur="104" hauteur="30">footage</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="272" largeur="104" hauteur="30">defines%20the%20beginning%20of%20a%20sequence</element>
+			<element type="1" posx="147" posy="92" largeur="104" hauteur="30">in%20point</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="92" largeur="104" hauteur="30">defines%20the%20end%20of%20a%20sequence</element>
+			<element type="1" posx="147" posy="343.6" largeur="104" hauteur="30">out%20point</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="200" largeur="104" hauteur="30">common%20video%20format</element>
+			<element type="1" posx="147" posy="379.6" largeur="104" hauteur="30">AVI</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="307.6" largeur="104" hauteur="30">fading%20out%20one%20shot%20while%20fading%20to%20another</element>
+			<element type="1" posx="147" posy="200" largeur="104" hauteur="30">dissolve</element>
+		</couple>
+	</couples>
+	<titre>Video%2DEditing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%281%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

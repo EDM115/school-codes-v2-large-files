@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">The%20timeline%20only%20displays%20the%20video%20part%20of%20your%20project%2E</enonce>
+		<enonce type="0">Markers%20only%20allow%20you%20to%20navigate%20in%20the%20video%2E</enonce>
+		<enonce type="1">The%20timeline%20lets%20you%20scroll%20the%20video%2E</enonce>
+		<enonce type="1">The%20timeline%20may%20be%20used%20to%20show%20transition%20effects%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Using%20the%20Timeline</soustitre>
+	<nom_exercice>Listening%20%20%20%284%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050401%2Eswf</url_son><decoupe_son>1,98,156,310,355,423,488,570,625</decoupe_son><texte>%5F%5FThe%20timeline%20actually%20shows%20the%20total%20length%20of%20your%20project%20and%20how%20long%20each%20individual%20clip%2C%20effect%2C%20and%20music%20clip%20runs%2E%20%0D%5F%5FThe%20timeline%20is%20generally%20situated%20at%20the%20bottom%20of%20your%20interface%2E%0D%5F%5FTypically%2C%20the%20timeline%20contains%20two%20tracks%20for%20video%20editing%2C%20one%20track%20for%20voiceover%2C%20a%20track%20or%20two%20for%20music%20and%20sound%20effects%2C%20and%20a%20track%20or%20two%20for%20video%20effects%20such%20as%20transitions%2E%20%0D%5F%5FYou%20may%20know%20where%20you%20are%20in%20the%20project%20by%20looking%20at%20the%20marker%2E%20%5F%5FAll%20you%20need%20to%20do%20is%20move%20it%20to%20any%20point%20to%20display%20what%20portion%20you%20want%20to%20work%20on%20%2E%5F%5FThe%20timeline%20provides%20convenient%20methods%20of%20viewing%20your%20footage%20in%20complex%20projects%2E%20%0D%5F%5FUsing%20markers%20as%20pointers%20on%20the%20timeline%20allows%20you%20to%20see%20what%20part%20of%20the%20movie%20is%20currently%20playing%2E%20%5F%5FThey%20move%20along%20and%20show%20you%20exactly%20where%20the%20video%20is%20on%20the%20timeline%2E%20%5F%5FJust%20move%20the%20marker%20to%20jump%20to%20any%20spot%20of%20your%20choosing%20in%20your%20creation%2E</texte><decoupe_texte>0,128,198,391,461,551,640,747,822</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="13" posy="61" /><bouton posx="13" posy="107" /><bouton posx="13" posy="122" /><bouton posx="103" posy="138" /><bouton posx="13" posy="168" /><bouton posx="187" posy="184" /><bouton posx="237" posy="199" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

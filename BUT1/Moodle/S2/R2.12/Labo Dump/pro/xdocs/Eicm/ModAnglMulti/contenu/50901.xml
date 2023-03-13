@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Exporting%20may%20involve%20some%20encoding%2E</enonce>
+		<enonce type="0">There%20is%20only%20one%20type%20of%20export%20settings%20for%20each%20media%2E</enonce>
+		<enonce type="0">A%20video%20CD%20is%20similar%20to%20an%20AVI%20file%2E</enonce>
+		<enonce type="1">When%20you%20create%20a%20DVD%20you%20don%27t%20have%20to%20deal%20with%20compression%20settings%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Exporting</soustitre>
+	<nom_exercice>Listening%20%20%20%289%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050901%2Eswf</url_son><decoupe_son>1,43,116,198,334,380,484,562</decoupe_son><texte>%5F%5FOnce%20your%20production%20is%20completed%2C%20you%20may%20want%20to%20export%20it%2E%20%0D%5F%5FThe%20%22export%20to%20DVD%22%20option%20is%20one%20easy%20way%20to%20get%20your%20work%20onto%20a%20popular%20media%2E%20%5F%5FOnce%20you%20have%20selected%20this%20option%2C%20you%20will%20be%20guided%20through%20the%20steps%20which%20will%20transfer%20your%20work%2E%20%0D%5F%5FDepending%20on%20the%20size%20of%20your%20movie%2C%20balancing%20properties%20such%20as%20bitrate%20and%20image%20quality%20will%20be%20calculated%20and%20set%20automatically%20so%20that%20it%20all%20fits%20on%20one%20single%20DVD%2E%20%5F%5FRemember%20there%20are%20many%20other%20export%20formats%2E%20%5F%5FApplications%20such%20as%20%22Premiere%22%20provide%20Media%20Encoders%20to%20encode%20your%20production%2C%20so%20that%20it%20is%20ready%20for%20a%20specific%20media%2E%20%0D%5F%5FAnd%20even%20then%2C%20you%20will%20be%20able%20to%20choose%20your%20own%20settings%20for%20export%20and%20even%20save%20them%20for%20later%20use%2E%0D%5F%5FIn%20any%20case%2C%20there%20are%20two%20ways%20you%20can%20export%20video%20%3A%20you%20either%20create%20a%20movie%20file%2C%20such%20as%20Windows%20AVI%2C%20or%20you%20encode%20it%20so%20as%20to%20get%20Windows%20Media%20or%20MPEG%2D1%20format%20for%20a%20video%20CD%2E%0D</texte><decoupe_texte>0,65,149,256,430,478,605,712</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="95" posy="46" /><bouton posx="13" posy="76" /><bouton posx="162" posy="107" /><bouton posx="59" posy="122" /><bouton posx="13" posy="153" /><bouton posx="13" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

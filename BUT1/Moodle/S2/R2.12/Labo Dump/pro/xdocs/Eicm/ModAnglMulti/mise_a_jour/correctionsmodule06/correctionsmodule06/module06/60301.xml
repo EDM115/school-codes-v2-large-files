@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Toolbars%20may%20be%20used%20for%20basic%20editing%20operations</enonce>
+		<enonce type="1">%22%20Free%20storage%20space%20%22%20indications%20tell%20you%20how%20much%20you%20can%20record%20on%20your%20hard%20disk%2E</enonce>
+		<enonce type="0">You%20need%20to%20set%20the%20configuration%20of%20your%20workspace%20every%20time%20you%20start%20a%20session%2E</enonce>
+		<enonce type="1">Templates%20act%20as%20guides%20in%20the%20editing%20process%20by%20presetting%20options%2E</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Getting%20started</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060301%2Eswf</url_son><decoupe_son>1,46,172,224,293,362,445</decoupe_son><texte>%5F%5FOnce%20you%27ve%20been%20through%20the%20usual%20install%20procedure%2C%20it%27s%20time%20to%20get%20started%2E%20%0D%5F%5FGenerally%2C%20two%20toolbars%20are%20available%20at%20the%20top%20of%20the%20workspace%3A%20the%20first%20one%20is%20for%20editing%2C%20and%20the%20second%20one%20is%20for%20controlling%20the%20%20%20%20%20%20%20%20%20%20%20%20recording%20and%20playback%2E%20%0D%5F%5FYou%20will%20get%20the%20usual%20cut%2C%20paste%2C%20trim%20and%20crop%20icons%2E%20%0D%5F%5FThe%20status%20bar%20provides%20helpful%20information%20such%20as%20the%20sample%20rate%2C%20and%20bit%20depth%2E%20%0D%5F%5FYou%20may%20also%20want%20to%20know%20about%20free%20storage%20space%20before%20you%20start%20%20any%20long%20recoding%20session%2E%20%20%0D%5F%5FFortunately%20you%20can%20always%20save%20your%20workspace%2C%20so%20that%20you%20don%27t%20have%20to%20start%20from%20scratch%20at%20each%20session%2E%20%0D%5F%5FTemplates%20are%20always%20available%2C%20and%20are%20real%20time%2Dsavers%20as%20they%20avoid%20the%20long%20process%20of%20defining%20specific%20characteristics%20for%20each%20new%20file%2E</texte><decoupe_texte>0,83,260,319,406,506,619</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="13" posy="92" /><bouton posx="13" posy="107" /><bouton posx="13" posy="138" /><bouton posx="13" posy="168" /><bouton posx="13" posy="199" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

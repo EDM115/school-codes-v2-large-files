@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Dialog%20windows%20look%20the%20same%20for%20each%20effect%20you%20have%20selected%2E</enonce>
+		<enonce type="1">You%20can%20move%20one%20part%20of%20a%20track%20a%20whole%20octave%20up%20in%20a%20single%20operation%2E</enonce>
+		<enonce type="1">A%20preset%20is%20a%20set%20of%20options%20that%20have%20been%20selected%20for%20you%2E</enonce>
+		<enonce type="0">You%20can%20only%20apply%20one%20effect%20on%20each%20track%2E</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Applying%20Effects</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS060501%2Eswf</url_son><decoupe_son>1,101,198,296,372,460</decoupe_son><texte>%5F%5FThere%20are%20many%20effects%20available%20in%20current%20programs%2E%20Before%20you%20apply%20any%2C%20make%20sure%20you%20select%20the%20part%20of%20the%20track%20you%20wish%20to%20apply%20them%20to%2E%20%5F%5FAs%20for%20image%20or%20video%2C%20each%20effect%20is%20customisable%2C%20and%20will%20open%20up%20a%20different%20option%20dialog%20window%2E%20%0D%5F%5FIf%20you%20decide%20to%20perform%20pitch%20changes%20on%20a%20region%2C%20you%20will%20have%20to%20choose%20between%20pitch%20bend%2C%20and%20pitch%20shift%2E%20%5F%5FThe%20pitch%20bend%20will%20display%20an%20envelope%20graph%20where%20you%20can%20use%20sliders%20to%20edit%20waveforms%20directly%2E%20%0D%5F%5FYou%20even%20have%20presets%20to%20shift%20your%20selection%20a%20whole%20octave%20or%20whole%20steps%20up%20or%20down%2E%20%5F%5FChorus%2C%20distortion%2C%20dynamics%2C%20flange%2C%20or%20%20wave%2Dhammer%20are%20just%20a%20few%20of%20the%20many%20effects%20you%20will%20be%20offered%2C%20%20and%20there%20is%20no%20limit%20to%20howm%20many%20you%20can%20use%20simultaneously%2E</texte><decoupe_texte>0,148,254,369,472,562</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="59" posy="46" /><bouton posx="13" posy="76" /><bouton posx="245" posy="92" /><bouton posx="13" posy="138" /><bouton posx="145" posy="153" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

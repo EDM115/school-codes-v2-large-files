@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="500" posy="90.8" largeur="104" hauteur="30">change</element>
+			<element type="1" posx="67" posy="235.4" largeur="104" hauteur="30">SONS%2FS041501a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="126.8" largeur="104" hauteur="30">shade%20of%20color</element>
+			<element type="1" posx="67" posy="162.4" largeur="104" hauteur="30">SONS%2FS041502a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="162.4" largeur="104" hauteur="30">enlarge</element>
+			<element type="1" posx="67" posy="342.4" largeur="104" hauteur="30">SONS%2FS041503a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="198.8" largeur="104" hauteur="30">make%20smaller</element>
+			<element type="1" posx="67" posy="306.4" largeur="104" hauteur="30">SONS%2FS041504a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="234.4" largeur="104" hauteur="30">switch%20from%20one%20state%20to%20another</element>
+			<element type="1" posx="67" posy="126.8" largeur="104" hauteur="30">SONS%2FS041505a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="270.4" largeur="104" hauteur="30">range%20of%20colours%20you%20can%20display</element>
+			<element type="1" posx="67" posy="90.8" largeur="104" hauteur="30">SONS%2FS041506a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="306.4" largeur="104" hauteur="30">cut</element>
+			<element type="1" posx="67" posy="270.4" largeur="104" hauteur="30">SONS%2FS041507a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="342.4" largeur="104" hauteur="30">mixing%20pixels%20to%20obtain%20unavailable%20colours</element>
+			<element type="1" posx="67" posy="198.4" largeur="104" hauteur="30">SONS%2FS041508a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="378.4" largeur="104" hauteur="30">helps%20you%20place%20elements%20precisely%20with%20a%20grid</element>
+			<element type="1" posx="67" posy="378.4" largeur="104" hauteur="30">SONS%2FS041509a%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Browsing%20the%20Internet</soustitre>
+	<nom_exercice>Vocabulary%20Sounlink</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20Match%20the%20definitions%20%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

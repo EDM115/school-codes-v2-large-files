@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>This%20shortcut%20%20is%20for%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20areas%2E</enonce>
+			<choix>
+				<choix type="0">crop</choix>
+				<choix type="1">cropping</choix>
+				<choix type="0">to%20crop</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>lick%20on%20the%20preview%20icon%20in%20order%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20changes%2E</enonce>
+			<choix>
+				<choix type="0">viewing</choix>
+				<choix type="1">to%20view</choix>
+				<choix type="0">view</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>You%20will%20achieve%20better%20results%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20reading%20the%20tutorial%2E</enonce>
+			<choix>
+				<choix type="0">from</choix>
+				<choix type="1">by</choix>
+				<choix type="0">for</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>%20%E2%80%A6%E2%80%A6%E2%80%A6%2E%2Eyou%20saved%20your%20changes%2C%20the%20toolbars%20will%20look%20the%20same%20next%20time%20you%20work%2E</enonce>
+			<choix>
+				<choix type="0">despite</choix>
+				<choix type="0">though</choix>
+				<choix type="1">as</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Digital%20Imaging</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%283%29%20%28QCM%29%20%20</nom_exercice>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form%3A</texte_aide>
+</LFIXML>

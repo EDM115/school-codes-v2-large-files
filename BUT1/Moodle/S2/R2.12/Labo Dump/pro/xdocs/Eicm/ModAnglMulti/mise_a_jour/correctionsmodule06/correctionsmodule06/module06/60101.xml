@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Audio%20editing%20software%20can%20replace%20hardware%20equipment</enonce>
+		<enonce type="1">Time%20is%20automatically%20taken%20care%20of%20by%20current%20applications</enonce>
+		<enonce type="0">Audio%20editing%20applications%20do%20not%20require%20particularly%20powerful%20systems</enonce>
+		<enonce type="1">Meters%20display%20sound%20volume</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Audio%20Editing%20software</soustitre>
+	<nom_exercice>Listening%20</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060101%2Eswf</url_son><decoupe_son>1,34,152,222,290,342,435</decoupe_son><texte>%5F%5FYou%20can%20turn%20your%20PC%20into%20a%20recording%20studio%2E%20%0D%5F%5FApplications%20such%20as%20Sound%20Forge%20or%20Wavelab%20let%20you%20perform%20most%20of%20the%20Audio%20Editing%20tasks%20which%20once%20required%20heavy%20analogue%20equipment%2C%20%5F%5Fand%20provide%20powerful%20features%20which%20will%20let%20you%20produce%20top%2Dof%2Dthe%2Drange%20digital%20audio%20files%2C%5F%5F%20thanks%20to%20a%20whole%20set%20of%20%20effects%20for%20recording%2C%20manipulating%20and%20mastering%20tracks%2E%20%0D%5F%5FYou%20will%20enjoy%20automated%20time%2Dbased%20recording%20capabilities%2E%20%0D%5F%5FAlways%20check%20system%20requirements%20before%20you%20purchase%20costly%20software%20as%20these%20applications%20are%20quite%20power%2Dhungry%2E%20%0D%5F%5FJust%20like%20on%20an%20ordinary%20mixing%20desk%20%2Cmultiple%20meters%20will%20also%20provide%20helpful%20information%20to%20adjust%20power%20levels%20in%20one%20single%20operation%2E</texte><decoupe_texte>0,49,189,285,373,436,554</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="75" posy="61" /><bouton posx="193" posy="76" /><bouton posx="13" posy="107" /><bouton posx="13" posy="122" /><bouton posx="13" posy="153" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

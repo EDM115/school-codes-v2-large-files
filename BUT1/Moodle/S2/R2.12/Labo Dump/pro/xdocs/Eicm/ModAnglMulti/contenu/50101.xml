@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Non%20linear%20means%20you%20can%27t%20work%20on%20clips%20in%20any%20order%20you%20like%2E</enonce>
+		<enonce type="1">Current%20video%2Dediting%20applications%20work%20at%20the%20same%20speed%20as%20real%20life%2E%20</enonce>
+		<enonce type="1">Multiple%20input%20formats%20allow%20you%20to%20work%20from%20most%20digital%20devices%2E</enonce>
+		<enonce type="1">Giving%20each%20clip%20a%20different%20name%20will%20ease%20your%20work%2E</enonce>
+		<enonce type="0">Photos%20may%20not%20be%20included%20in%20your%20projects%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Video%2Dediting%20%20applications</soustitre>
+	<nom_exercice>Listening%20%20%20%281%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050101%2Eswf</url_son><decoupe_son>1,66,137,312,397,512,600</decoupe_son><texte>%5F%5FCurrent%20video%2Dediting%20applications%20offer%20non%2Dlinear%20processing%20capabilities%2E%20%0D%5F%5FThese%20top%2Dof%2Dthe%2Drange%20toolsets%20are%20ideal%20for%20professionals%20who%20need%20real%2Dtime%20edition%2E%20%0D%5F%5FYou%20will%20find%20easy%20ways%20to%20view%20media%2C%20arrange%20clips%20and%20create%20complex%20animations%2E%20You%20should%20be%20offered%20a%20wide%20range%20of%20input%20formats%2C%20so%20that%20you%20won%27t%20need%20to%20look%20for%20file%2Dconverters%20before%20you%20start%20working%2E%20%0D%5F%5FThe%20first%20step%20will%20be%20to%20create%20sequences%20by%20importing%20raw%20clips%20or%20unaltered%20footage%2E%20%0D%5F%5FNaming%20clips%20and%20sequences%20as%20you%20import%20them%20will%20allow%20you%20to%20identify%20them%20later%2E%20You%20are%20by%20no%20means%20limited%20to%20video%2E%20%0D%5F%5FStill%20frames%20in%20many%20formats%20may%20be%20imported%20too%2C%20and%20they%20will%20be%20displayed%20for%20as%20long%20as%20you%20want%20in%20any%20sequence%2E%20%0D%5F%5FEffects%20may%20be%20applied%20at%20any%20time%2C%20either%20on%20video%20or%20on%20audio%20just%20like%20with%20any%20digital%20imaging%20application%2E</texte><decoupe_texte>0,80,171,388,479,605,726</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="13" posy="76" /><bouton posx="13" posy="138" /><bouton posx="13" posy="168" /><bouton posx="13" posy="199" /><bouton posx="13" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

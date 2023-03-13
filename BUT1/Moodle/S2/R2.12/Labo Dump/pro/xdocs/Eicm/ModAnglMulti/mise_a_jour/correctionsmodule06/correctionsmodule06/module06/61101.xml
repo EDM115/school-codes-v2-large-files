@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="400" posy="131.2" largeur="104" hauteur="30">effect%20which%20reduces%20resolution</element>
+			<element type="1" posx="90" posy="93.6" largeur="104" hauteur="30">quantize</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="211.2" largeur="104" hauteur="30">how%20high%20a%20sound%20is%20</element>
+			<element type="1" posx="90" posy="133.6" largeur="104" hauteur="30">pitch</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="331.2" largeur="104" hauteur="30">changes%20of%20a%20tone%2C%20such%20as%20attack%2C%20sustain%2C%20decay%2C%20release%2E</element>
+			<element type="1" posx="90" posy="173.6" largeur="104" hauteur="30">envelope</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="171.2" largeur="104" hauteur="30">break%20up%20in%20two%20parts</element>
+			<element type="1" posx="90" posy="213.6" largeur="104" hauteur="30">split</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="371.2" largeur="104" hauteur="30">immobilize</element>
+			<element type="1" posx="90" posy="253.6" largeur="104" hauteur="30">freeze</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="411.2" largeur="104" hauteur="30">predetermined%20configuration</element>
+			<element type="1" posx="90" posy="293.6" largeur="104" hauteur="30">preset</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="251.2" largeur="104" hauteur="30">extend</element>
+			<element type="1" posx="90" posy="333.6" largeur="104" hauteur="30">stretch</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="291.2" largeur="104" hauteur="30">go%20back%20and%20forth%20in%20a%20sound%20sample</element>
+			<element type="1" posx="90" posy="373.6" largeur="104" hauteur="30">shuttle</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="91.2" largeur="104" hauteur="30">power%20of%20tones</element>
+			<element type="1" posx="90" posy="413.6" largeur="104" hauteur="30">dynamics</element>
+		</couple>
+	</couples>
+	<titre>Audio%20Editing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

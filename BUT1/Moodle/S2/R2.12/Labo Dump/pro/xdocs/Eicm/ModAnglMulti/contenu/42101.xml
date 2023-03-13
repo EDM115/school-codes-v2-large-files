@@ -1,0 +1,149 @@
+<LFIXML type="accent_tonique" contact_url="http://www.laforme.net">
+	<contenu>
+		<proposition urlSon="SONS/Speaking_01.swf">
+			<extrait type="texte">The%20latest%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">a</syllabe>
+				<syllabe type="1">vai</syllabe>
+				<syllabe type="0">lable%20</syllabe>
+			</extrait>
+			<extrait type="texte">version%20has%20been%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">en</syllabe>
+				<syllabe type="1">han</syllabe>
+				<syllabe type="0">ced%20</syllabe>
+			</extrait>
+			<extrait type="texte">with%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">va</syllabe>
+				<syllabe type="0">rious%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">custo</syllabe>
+				<syllabe type="1">mi</syllabe>
+				<syllabe type="0">sable%20</syllabe>
+			</extrait>
+			<extrait type="texte">menus</extrait>
+		</proposition>
+		<proposition urlSon="SONS/Speaking_02.swf">
+			<extrait type="texte">Colour%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">ren</syllabe>
+				<syllabe type="0">dering%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">per</syllabe>
+				<syllabe type="1">for</syllabe>
+				<syllabe type="0">mance%20</syllabe>
+			</extrait>
+			<extrait type="texte">has%20</extrait>
+			<extrait type="texte">been%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">sig</syllabe>
+				<syllabe type="1">ni</syllabe>
+				<syllabe type="0">ficantly%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">im</syllabe>
+				<syllabe type="1">pro</syllabe>
+				<syllabe type="0">ved%20</syllabe>
+			</extrait>
+			<extrait type="texte">in%20the%20current%20%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">re</syllabe>
+				<syllabe type="1">lea</syllabe>
+				<syllabe type="0">se</syllabe>
+			</extrait>
+		</proposition>
+		<proposition urlSon="SONS/Speaking_03.swf">
+			<extrait type="texte">This%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">appli</syllabe>
+				<syllabe type="1">ca</syllabe>
+				<syllabe type="0">tion%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">pro</syllabe>
+				<syllabe type="1">vi</syllabe>
+				<syllabe type="0">des%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">se</syllabe>
+				<syllabe type="0">veral%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">ef</syllabe>
+				<syllabe type="1">fi</syllabe>
+				<syllabe type="0">cient%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">me</syllabe>
+				<syllabe type="0">thods%20</syllabe>
+			</extrait>
+			<extrait type="texte">for%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">re</syllabe>
+				<syllabe type="1">mo</syllabe>
+				<syllabe type="0">ving%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="0">un</syllabe>
+				<syllabe type="1">wan</syllabe>
+				<syllabe type="0">ted%20</syllabe>
+			</extrait>
+			<extrait type="texte">noise%20</extrait>
+		</proposition>
+		<proposition urlSon="SONS/Speaking_04.swf">
+			<extrait type="texte">You%20can%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">app</syllabe>
+				<syllabe type="1">ly%20</syllabe>
+			</extrait>
+			<extrait type="texte">this%20filter%20to%20get%20a%20%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">u</syllabe>
+				<syllabe type="0">niform%20</syllabe>
+			</extrait>
+			<extrait type="texte">blur%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">ef</syllabe>
+				<syllabe type="1">fect%20</syllabe>
+			</extrait>
+			<extrait type="texte">for%20</extrait>
+			<extrait type="texte">photo%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">re</syllabe>
+				<syllabe type="1">tou</syllabe>
+				<syllabe type="0">ching%20</syllabe>
+			</extrait>
+		</proposition>
+		<proposition urlSon="SONS/Speaking_05.swf">
+			<extrait type="lien">
+				<syllabe type="0">Se</syllabe>
+				<syllabe type="1">lec</syllabe>
+				<syllabe type="0">ting%20</syllabe>
+			</extrait>
+			<extrait type="texte">too%20many%20effects%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">simul</syllabe>
+				<syllabe type="1">ta</syllabe>
+				<syllabe type="0">neously%20</syllabe>
+			</extrait>
+			<extrait type="texte">may%20cause%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">unre</syllabe>
+				<syllabe type="1">li</syllabe>
+				<syllabe type="0">able%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">re</syllabe>
+				<syllabe type="0">sults%2E</syllabe>
+			</extrait>
+		</proposition>
+	</contenu>
+	<titre>Digital%20Imaging</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Speaking%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide></texte_aide>
+</LFIXML>

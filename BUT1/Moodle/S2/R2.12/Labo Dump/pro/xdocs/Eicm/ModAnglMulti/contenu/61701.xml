@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>There%20are%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2Eways%20%20to%20copy%20this%20track%2E</enonce>
+			<choix>
+				<choix type="0">much</choix>
+				<choix type="1">many</choix>
+				<choix type="0">few</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>If%20your%20file%20is%20smaller%20it%20will%20take%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6time%20to%20process%2E</enonce>
+			<choix>
+				<choix type="0">fewer</choix>
+				<choix type="0">more</choix>
+				<choix type="1">less</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>You%20can%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2Ethe%20quality%20by%20using%20digital%20output%2E</enonce>
+			<choix>
+				<choix type="0">increase</choix>
+				<choix type="0">decrease</choix>
+				<choix type="1">improve</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6people%20use%20analogue%20audio%20equipment%20today%2E</enonce>
+			<choix>
+				<choix type="0">more</choix>
+				<choix type="0">less</choix>
+				<choix type="1">fewer</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Audio%20Editing</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%28QCM%29</nom_exercice>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form%3A</texte_aide>
+</LFIXML>

@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>Your%20project%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2Elost%20if%20you%20don%E2%80%99t%20save%20it%20now</enonce>
+			<choix>
+				<choix type="0">was</choix>
+				<choix type="1">will%20be</choix>
+				<choix type="0">can%20be</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>Sound%20samples%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6added%20to%20this%20sequence</enonce>
+			<choix>
+				<choix type="0">was</choix>
+				<choix type="1">have%20been</choix>
+				<choix type="0">is</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>The%20%20original%20file%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20in%20the%20same%20folder</enonce>
+			<choix>
+				<choix type="1">will%20be%20left</choix>
+				<choix type="0">will%20leave</choix>
+				<choix type="0">leave</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>The%20new%20interface%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2Estreamlined%2E</enonce>
+			<choix>
+				<choix type="0">have%20been</choix>
+				<choix type="1">has%20been</choix>
+				<choix type="0">were</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Video%2DEditing</titre>
+	<soustitre></soustitre>
+	<nom_exercice>%20Language%20Structures</nom_exercice>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form%3A%0D</texte_aide>
+</LFIXML>

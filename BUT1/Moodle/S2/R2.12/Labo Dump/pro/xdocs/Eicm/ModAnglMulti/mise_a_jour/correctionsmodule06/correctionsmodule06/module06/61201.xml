@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="450" posy="133.6" largeur="104" hauteur="30">silent</element>
+			<element type="1" posx="80" posy="97.2" largeur="104" hauteur="30">mute</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="253.6" largeur="104" hauteur="30">copy%20one%20part%20of%20a%20sample</element>
+			<element type="1" posx="80" posy="137.2" largeur="104" hauteur="30">replicate</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="373.6" largeur="104" hauteur="30">gradually</element>
+			<element type="1" posx="80" posy="177.2" largeur="104" hauteur="30">smoothly</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="93.6" largeur="104" hauteur="30">move%20backwards</element>
+			<element type="1" posx="80" posy="217.2" largeur="104" hauteur="30">reverse</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="333.6" largeur="104" hauteur="30">fix</element>
+			<element type="1" posx="80" posy="257.2" largeur="104" hauteur="30">repair</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="173.6" largeur="104" hauteur="30">mix</element>
+			<element type="1" posx="80" posy="297.2" largeur="104" hauteur="30">blend</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="413.6" largeur="104" hauteur="30">border</element>
+			<element type="1" posx="80" posy="337.2" largeur="104" hauteur="30">edge</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="213.6" largeur="104" hauteur="30">improve%20quality</element>
+			<element type="1" posx="80" posy="377.2" largeur="104" hauteur="30">enhance</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="293.6" largeur="104" hauteur="30">centre</element>
+			<element type="1" posx="80" posy="417.2" largeur="104" hauteur="30">focus</element>
+		</couple>
+	</couples>
+	<titre>Audio%20Editing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Not%20every%20user%20has%20the%20same%20needs%2E</enonce>
+		<enonce type="1">Browsers%20allow%20you%20to%20display%20images%20in%20any%20order%2E</enonce>
+		<enonce type="0">It%20is%20impossible%20to%20adapt%20your%20workspace%20to%20your%20own%20needs%2E</enonce>
+		<enonce type="1">Shortcuts%20are%20time%2Dsavers%2E</enonce>
+	</propositions>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Digital%20Imaging%20Software</soustitre>
+	<nom_exercice>Listening%20%20%20%281%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040101%2Eswf</url_son><decoupe_son>1,108,261,346,451,567,625</decoupe_son><texte>%5F%5FDigital%20Imaging%20software%20may%20be%20designed%20for%20professionals%20who%20need%20to%20create%20sophisticated%20documents%2C%20or%20just%20enthusiasts%20and%20novices%2E%0D%5F%5FYou%20may%20not%20need%20the%20most%20powerful%20version%20of%20photography%20retouching%20software%2C%20but%20there%20are%20many%20features%20any%20user%20will%20be%20pleased%20to%20discover%2C%20even%20if%20he%20is%20only%20painting%20and%20drawing%20plain%20pictures%2E%0D%5F%5FMost%20applications%20come%20with%20a%20File%20Browser%20which%20lets%20you%20view%2C%20sort%20or%20tag%20images%2E%5F%5F%20There%20are%20just%20so%20many%20tools%20you%20may%20use%20that%20it%20will%20probably%20prove%20more%20convenient%20to%20customise%20your%20workspace%20according%20to%20your%20needs%2E%0D%5F%5FIf%20you%20focus%20on%20graphic%20design%2C%20you%20will%20need%20to%20create%20complex%20images%20with%20multiple%20effects%2C%20text%2C%20and%20as%20many%20layers%20as%20you%20wish%2E%0D%5F%5FYou%20may%20also%20want%20to%20group%20objects%20into%20sets%2C%20and%20perform%20colour%20coding%2E%20%5F%5FShortcuts%20will%20allow%20fast%20and%20efficient%20performance%20by%20avoiding%20unnecessary%20browsing%20through%20menus%2E</texte><decoupe_texte>0,138,341,426,567,701,776</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="13" posy="122" /><bouton posx="88" posy="138" /><bouton posx="13" posy="184" /><bouton posx="13" posy="214" /><bouton posx="55" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

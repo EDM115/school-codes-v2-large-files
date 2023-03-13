@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="450" posy="171.2" largeur="104" hauteur="30">repetition</element>
+			<element type="1" posx="90" posy="91.2" largeur="104" hauteur="30">loop%09</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="371.2" largeur="104" hauteur="30">a%20part%20of%20a%20sound%20to%20be%20used%20later</element>
+			<element type="1" posx="90" posy="131.2" largeur="104" hauteur="30">sample</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="411.2" largeur="104" hauteur="30">how%20high%20a%20signal%20is</element>
+			<element type="1" posx="90" posy="171.2" largeur="104" hauteur="30">level</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="91.2" largeur="104" hauteur="30">initial%20portion%20of%20a%20sound</element>
+			<element type="1" posx="90" posy="211.2" largeur="104" hauteur="30">attack</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="131.2" largeur="104" hauteur="30">upper%20limit</element>
+			<element type="1" posx="90" posy="251.2" largeur="104" hauteur="30">threshold</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="331.2" largeur="104" hauteur="30">remove%20all%20data%20except%20the%20current%20selection</element>
+			<element type="1" posx="90" posy="291.2" largeur="104" hauteur="30">trim%2Fcrop%20</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="251.2" largeur="104" hauteur="30">original%20windows%20sound%20format</element>
+			<element type="1" posx="90" posy="331.2" largeur="104" hauteur="30">wav</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="291.2" largeur="104" hauteur="30">join%20together%20two%20different%20regions%20of%20audio%2E</element>
+			<element type="1" posx="90" posy="371.2" largeur="104" hauteur="30">splice</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="211.2" largeur="104" hauteur="30">highlighted%20area%20of%20a%20digital%20audio</element>
+			<element type="1" posx="90" posy="411.2" largeur="104" hauteur="30">region</element>
+		</couple>
+	</couples>
+	<titre>Audio%20Editing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

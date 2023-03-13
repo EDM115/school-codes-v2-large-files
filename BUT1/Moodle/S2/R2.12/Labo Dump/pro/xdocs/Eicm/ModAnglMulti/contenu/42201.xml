@@ -1,0 +1,15 @@
+<LFIXML type="enregistrement" contact_url="http://www.laforme.net">
+	<contenu>
+		<proposition urlSon="SONS%2FSpeaking%5F01%2Eswf">The%20latest%20available%20version%20has%20been%20enhanced%20with%20various%20%20customisable%20menus%2E</proposition>
+		<proposition urlSon="SONS%2FSpeaking%5F02%2Eswf">Colour%20rendering%20performance%20has%20been%20significantly%20improved%20in%20the%20current%20release%2E</proposition>
+		<proposition urlSon="SONS%2FSpeaking%5F03%2Eswf">This%20application%20provides%20several%20efficient%20methods%20for%20removing%20unwanted%20noise%20%2E</proposition>
+		<proposition urlSon="SONS%2FSpeaking%5F04%2Eswf">You%20can%20apply%20this%20filter%20to%20get%20a%20uniform%20blur%20effect%20for%20photo%20retouching%2E</proposition>
+		<proposition urlSon="SONS%2FSpeaking%5F05%2Eswf">Selecting%20too%20many%20effects%20simultaneously%20may%20cause%20unreliable%20results%2E</proposition>
+	</contenu>
+	<titre>Digital%20Imaging%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Speaking</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20record%2C%20sentence%20by%20sentence</texte_aide>
+	<ip_serveur>video%2Euhb%2Efr</ip_serveur>
+</LFIXML>

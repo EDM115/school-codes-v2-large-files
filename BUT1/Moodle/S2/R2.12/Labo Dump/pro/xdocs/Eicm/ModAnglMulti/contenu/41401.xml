@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="400" posy="197.2" largeur="104" hauteur="30">animated%20boarder%20to%20select%20geometrical%20shapes%0D</element>
+			<element type="1" posx="67" posy="377.2" largeur="104" hauteur="30">SONS%2FS041401a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="125.6" largeur="104" hauteur="30">draws%20straight%2Dedged%20and%20freehand%20segments%20</element>
+			<element type="1" posx="67" posy="89.6" largeur="104" hauteur="30">SONS%2FS041402a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="341.2" largeur="104" hauteur="30">drag%20somewhere%20else%0D</element>
+			<element type="1" posx="67" posy="125.6" largeur="104" hauteur="30">SONS%2FS041403a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="305.2" largeur="104" hauteur="30">selects%20a%20whole%20similarly%20%20coloured%20area</element>
+			<element type="1" posx="67" posy="161.2" largeur="104" hauteur="30">SONS%2FS041404a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="269.2" largeur="104" hauteur="30">divide%20in%20smaller%20sections</element>
+			<element type="1" posx="67" posy="197.2" largeur="104" hauteur="30">SONS%2FS041405a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="89.6" largeur="104" hauteur="30">paints%20soft%20edged%20shapes</element>
+			<element type="1" posx="67" posy="233.2" largeur="104" hauteur="30">SONS%2FS041406a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="233.2" largeur="104" hauteur="30">paints%20brush%20strokes</element>
+			<element type="1" posx="67" posy="269.2" largeur="104" hauteur="30">SONS%2FS041407a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="161.2" largeur="104" hauteur="30">copy%20one%20area%20onto%20another</element>
+			<element type="1" posx="67" posy="305.2" largeur="104" hauteur="30">SONS%2FS041408a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="377.2" largeur="104" hauteur="30">helps%20you%20align%20your%20image</element>
+			<element type="1" posx="67" posy="341.2" largeur="104" hauteur="30">SONS%2FS041409a%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Browsing%20the%20Internet</soustitre>
+	<nom_exercice>Vocabulary%20Soundlink</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20Match%20the%20definitions%20%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

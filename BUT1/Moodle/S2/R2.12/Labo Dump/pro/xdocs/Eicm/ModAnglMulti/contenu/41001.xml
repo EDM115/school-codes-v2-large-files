@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="565" posy="405.8" largeur="104" hauteur="30">put%20a%20label</element>
+			<element type="1" posx="365" posy="392.8" largeur="104" hauteur="30">tag%09</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="209.8" largeur="104" hauteur="30">look%20at</element>
+			<element type="1" posx="515" posy="264.8" largeur="104" hauteur="30">view%09</element>
+		</couple>
+		<couple>
+			<element type="0" posx="565" posy="209.8" largeur="104" hauteur="30">defect</element>
+			<element type="1" posx="260" posy="359.8" largeur="104" hauteur="30">flaw</element>
+		</couple>
+		<couple>
+			<element type="0" posx="365" posy="87.8" largeur="104" hauteur="30">allows%20faster%20access</element>
+			<element type="1" posx="455" posy="359.8" largeur="104" hauteur="30">shortcut</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="120.6" largeur="104" hauteur="30">section%20selected%20for%20later%20use</element>
+			<element type="1" posx="365" posy="264.8" largeur="104" hauteur="30">sample</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="319.8" largeur="104" hauteur="30">remove</element>
+			<element type="1" posx="215" posy="264.8" largeur="104" hauteur="30">erase</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="405.8" largeur="104" hauteur="30">samples%20a%20color</element>
+			<element type="1" posx="445" posy="169.8" largeur="104" hauteur="30">eye%20dropper</element>
+		</couple>
+		<couple>
+			<element type="0" posx="565" posy="319.8" largeur="104" hauteur="30">to%20lock%20in%20one%20position</element>
+			<element type="1" posx="260" posy="169.8" largeur="104" hauteur="30">to%20dock</element>
+		</couple>
+		<couple>
+			<element type="0" posx="565" posy="120.6" largeur="104" hauteur="30">canvas%20where%20images%20are%20created</element>
+			<element type="1" posx="365" posy="137.6" largeur="104" hauteur="30">background</element>
+		</couple>
+	</couples>
+	<titre>Digital%20Imaging</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%281%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

@@ -1,0 +1,16 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Size%20may%20be%20expressed%20in%20points%2E</enonce>
+		<enonce type="0">Bitmap%20is%20one%20type%20of%20resolution%2E</enonce>
+		<enonce type="1">%E2%80%9CTransparent%E2%80%9D%20is%20one%20type%20of%20background%2E</enonce>
+		<enonce type="1">Toolboxes%20may%20be%20moved%20as%20you%20wish%2E</enonce>
+		<enonce type="0">Menus%20look%20the%20same%20whatever%20you%20are%20doing%2E</enonce>
+		<enonce type="1">A%20tutorial%20teaches%20you%20how%20to%20use%20software%2E</enonce>
+	</propositions>
+	<titre>Digital%20Imaging%20%20</titre>
+	<soustitre>Creating%20a%20new%20image%0D</soustitre>
+	<nom_exercice>Listening%20%20%20%282%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040201%2Eswf</url_son><decoupe_son>1,130,219,330,380,442,501,611</decoupe_son><texte>%5F%5FWhenever%20you%20create%20a%20new%20image%2C%20be%20sure%20to%20input%20a%20name%20and%20the%20size%2C%20which%20is%20usually%20expressed%20in%20pixels%2C%20unless%20you%20use%20points%2C%20inches%20or%20centimetres%2E%0D%5F%5FYou%20will%20also%20need%20to%20define%20width%2C%20height%2C%20and%20the%20resolution%20which%20may%20be%20expressed%20in%20pixels%20per%20centimetre%2E%20%5F%5FMode%20can%20be%20RGB%2C%20which%0D%20stands%20for%20Red%20Green%20and%20Blue%2C%20Bitmap%2C%20Grayscale%20or%20CMYK%20color%2E%0D%5F%5FThe%20contents%20window%20lets%20you%20choose%20the%20image%20background%2E%20%5F%5FThis%20might%20be%20transparent%2C%20white%2C%20or%20the%20current%20default%20colour%2E%0D%5F%5FAs%20you%20start%20you%20will%20see%20a%20toolbox%20on%20the%20left%20part%20of%20the%20screen%2E%0D%5F%5FYou%20may%20drag%20it%20anywhere%20on%20the%20work%20area%2E%20As%20you%20position%20the%20cursor%20over%20images%2C%20relevant%20context%20menus%20will%20be%20displayed%2E%20%0D%5F%5FTake%20time%20to%20read%20the%20%22What%27s%20new%22%20section%20in%20the%20instructions%2C%20or%20the%20tutorial%2C%20as%20features%20are%20added%20every%20time%20a%20new%20version%20of%20your%20favourite%20program%20is%20released%2E</texte><decoupe_texte>0,157,271,361,421,488,558,686</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="243" posy="76" /><bouton posx="13" posy="107" /><bouton posx="353" posy="107" /><bouton posx="13" posy="138" /><bouton posx="13" posy="153" /><bouton posx="13" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

@@ -1,0 +1,13 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Meters%20allow%20you%20to%20apply%20effects%20on%20sound%20tracks</enonce>
+		<enonce type="1">SPDIF%20provides%20sound%20input%20in%20digital%20format</enonce>
+		<enonce type="0">%22Punch%20in%22%20lets%20creates%20multiple%20windows%20for%20each%20file%2E</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Recording</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060601%2Eswf</url_son><decoupe_son>1,72,183,229,322,384,454</decoupe_son><texte>%5F%5FThe%20recording%20window%20offers%20meters%20which%20will%20let%20you%20monitor%20sound%20input%20before%20you%20start%20the%20actual%20recording%20process%2E%20%0D%5F%5FThese%20show%20levels%20in%20decibels%20and%20colour%20codes%20from%20green%20to%20red%2C%20through%20yellow%20and%20orange%20will%20tell%20you%20if%20you%20have%20to%20turn%20the%20input%20volume%20down%2E%0D%5F%5FThere%20are%20many%20ways%20you%20can%20transfer%20sound%20to%20your%20PC%20%2E%5F%5FOne%20is%20the%20SPDIF%20interface%20format%20which%20has%20turned%20into%20a%20standard%20for%20connecting%20between%20digital%20devices%2C%20%5F%5Fboth%20in%20consumer%20grade%20audio%20devices%2C%20and%20in%20professional%20digital%20studios%20%2E%0D%5F%5FYou%20may%20opt%20for%20%22multiple%20takes%20creating%20regions%22%2C%20%22create%20new%20windows%20for%20each%20take%22%2C%5F%5For%20record%20a%20specific%20length%20with%20the%20%22punch%2Din%22%20option%2C%20in%20which%20case%20you%20will%20have%20to%20input%20the%20start%20and%20end%20times%2E</texte><decoupe_texte>0,124,275,332,441,519,607</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="13" posy="92" /><bouton posx="332" posy="92" /><bouton posx="204" posy="122" /><bouton posx="13" posy="153" /><bouton posx="139" posy="168" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

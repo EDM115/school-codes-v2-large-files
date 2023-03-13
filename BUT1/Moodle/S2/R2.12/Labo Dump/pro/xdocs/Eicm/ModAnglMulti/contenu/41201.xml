@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="500" posy="126.8" largeur="104" hauteur="30">range%20of%20colours%20a%20device%20can%20display</element>
+			<element type="1" posx="147" posy="378.8" largeur="104" hauteur="30">gamma</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="234.4" largeur="104" hauteur="30">smallest%20picture%20element</element>
+			<element type="1" posx="147" posy="162.4" largeur="104" hauteur="30">pixel</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="162.4" largeur="104" hauteur="30">small%20representation%20of%20an%20image</element>
+			<element type="1" posx="147" posy="306.8" largeur="104" hauteur="30">thumbnail</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="342.4" largeur="104" hauteur="30">tilt%20an%20image%20on%20its%20axis</element>
+			<element type="1" posx="147" posy="270.4" largeur="104" hauteur="30">skew</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="306.8" largeur="104" hauteur="30">invert%20colours%20above%20a%20lightness%20value</element>
+			<element type="1" posx="147" posy="126.8" largeur="104" hauteur="30">solarize</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="198.4" largeur="104" hauteur="30">switch%20from%20one%20state%20to%20another</element>
+			<element type="1" posx="147" posy="90.8" largeur="104" hauteur="30">toggle</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="378.8" largeur="104" hauteur="30">remove%20an%20image%20outside%20a%20boundary</element>
+			<element type="1" posx="147" posy="234.4" largeur="104" hauteur="30">crop</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="270.4" largeur="104" hauteur="30">imbedded%20information%20about%20copyright</element>
+			<element type="1" posx="147" posy="198.4" largeur="104" hauteur="30">watermark</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="90.8" largeur="104" hauteur="22">change%20width%20and%20height</element>
+			<element type="1" posx="147" posy="342.4" largeur="104" hauteur="30">resize</element>
+		</couple>
+	</couples>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Browsing%20the%20Internet</soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%283%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

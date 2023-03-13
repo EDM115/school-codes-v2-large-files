@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">TGA%20is%20an%20image%20format%2E</enonce>
+		<enonce type="1">Compressing%20pictures%20saves%20disk%20space%2E</enonce>
+		<enonce type="1">You%20may%20set%20the%20level%20of%20compression%20when%20you%20save%20in%20jpg%20format%2E</enonce>
+		<enonce type="0">The%20higher%20the%20compression%2C%20the%20better%20the%20quality%2E</enonce>
+		<enonce type="1">Batch%20conversion%20converts%20several%20files%20at%20a%20time%2E%20</enonce>
+	</propositions>
+	<titre>Digital%20Imaging%20</titre>
+	<soustitre>Image%20formats</soustitre>
+	<nom_exercice>Listening%20%20%20%284%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040401%2Eswf</url_son><decoupe_son>1,40,158,328,388,506,665</decoupe_son><texte>%5F%5FOne%20problem%20you%20may%20have%20to%20deal%20with%20is%20image%20formats%2E%20%5F%5FThere%20are%20many%20different%20formats%20such%20as%20BMP%2C%20JPG%2C%20TGA%20or%20RAW%20%2Dto%20name%20a%20%20few%2E%20%5F%5FEvery%20format%20has%20its%20own%20pluses%3B%20a%20lot%20are%20called%20%E2%80%9Cproprietary%E2%80%9D%20formats%20and%20are%20generated%20by%20one%20particular%20application%2C%20whereas%20some%20are%20%E2%80%9Copen%20source%E2%80%9D%2C%20so%20that%20you%20may%20freely%20distribute%20what%20you%20create%2E%0D%5F%5FMost%20applications%20come%20with%20multiple%20format%20options%20to%20save%20your%20files%2E%20%5F%5FYou%20may%20want%20to%20compress%20pictures%2C%20either%20because%20you%20wish%20to%20save%20hard%20disk%20space%20or%20because%20you%20are%20planning%20to%20send%20them%20over%20the%20internet%20as%20email%20attachments%2E%20%0D%5F%5FJPG%20is%20a%20very%20popular%20format%20especially%20with%20digital%20cameras%2C%20and%20you%20will%20probably%20be%20asked%20to%20set%20a%20file%20compression%20format%2C%20in%20which%20case%20you%20will%20need%20to%20opt%20for%20better%20quality%20or%20more%20compression%2E%20%5F%5FOne%20way%20of%20getting%20around%20this%20difficulty%20is%20to%20use%20the%20batch%20conversion%20utility%20which%20automates%20multiple%20conversions%20from%20one%20format%20to%20any%20other%2E</texte><decoupe_texte>0,58,139,345,419,586,790</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="334" posy="15" /><bouton posx="41" posy="46" /><bouton posx="13" posy="92" /><bouton posx="41" posy="107" /><bouton posx="13" posy="153" /><bouton posx="326" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

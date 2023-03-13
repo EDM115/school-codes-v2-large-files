@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">The%20smaller%20a%20picture%20the%20less%20time%20it%20takes%20to%20transfer</enonce>
+		<enonce type="1">The%20more%20bits%2C%20the%20more%20colours%20you%20can%20work%20on</enonce>
+		<enonce type="0">The%20number%20of%20colours%20an%20image%20has%20cannot%20be%20changed</enonce>
+		<enonce type="0">An%20adjustment%20histogram%20does%20not%20allow%20you%20to%20alter%20an%20image</enonce>
+		<enonce type="0">Programs%20provide%20information%20on%20how%20many%20colours%20a%20picture%20has%20automatically</enonce>
+	</propositions>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Size%20and%20colors</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+	<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS040501%2Eswf</url_son><decoupe_son>1,78,155,244,325,405,568</decoupe_son><texte>%5F%5FEach%20image%20has%20its%20own%20attributes%2E%20Size%20may%20be%20altered%20at%20any%20time%20with%20the%20%E2%80%9Cresize%E2%80%9D%20function%2E%20%5F%5FThis%20is%20also%20really%20vital%20if%20you%20want%20to%20save%20space%20and%20time%20while%20transferring%20pictures%2E%20%5F%5FThe%20number%20of%20colours%20may%20be%20modified%20too%2E%20It%20is%20expressed%20in%20bits%20and%20corresponds%20to%20the%20number%20of%20colours%20available%2E%20%5F%5FFor%20instance%2024%20bits%20will%20allow%20you%20to%20display%2016%2E7%20million%20colours%20simultaneously%2E%20%5F%5FOne%20command%20will%20also%20let%20you%20%E2%80%9Ccount%20the%20colour%20used%E2%80%9D%2C%20should%20you%20decide%20to%20increase%20or%20decrease%20the%20number%2E%20%5F%5FThe%20colour%20histogram%20will%20help%20you%20see%20how%20much%20of%20each%20colour%20is%20actually%20being%20used%20on%20a%20graph%2C%20and%20depending%20on%20the%20application%20you%20are%20using%20provide%20accurate%20information%20about%20low%2C%20gamma%20and%20high%20tones%2E%20%5F%5FThis%20dialog%20box%20enables%20you%20to%20perform%20changes%20on%20the%20histogram%20itself%2E</texte><decoupe_texte>0,97,189,310,396,507,716</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="149" posy="30" /><bouton posx="240" posy="46" /><bouton posx="166" posy="76" /><bouton posx="245" posy="92" /><bouton posx="132" posy="122" /><bouton posx="141" posy="168" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

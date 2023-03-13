@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Rendering%20is%20the%20final%20step%20which%20creates%20the%20production%20as%20it%20will%20be%20seen%2E</enonce>
+		<enonce type="0">Rendering%20always%20takes%20the%20same%20amount%20of%20time%2E</enonce>
+		<enonce type="1">Real%2DTime%20rendering%20requires%20no%20waiting%2E</enonce>
+		<enonce type="0">Rendering%20can%20only%20be%20done%20on%20the%20whole%20production%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Rendering</soustitre>
+	<nom_exercice>Listening%20%20%20%2810%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS051001%2Eswf</url_son><decoupe_son>1,130,236,386,503,595,661</decoupe_son><texte>%5F%5FOne%20vital%20step%20is%20rendering%20or%20%22Preview%22%2C%20which%20comes%20to%20converting%20your%20clips%2C%20the%20effects%2C%20transitions%2C%20and%20music%20into%20the%20actual%20movie%20you%20want%20to%20distribute%2E%20%0D%5F%5FIt%20is%20achieved%20in%20the%20Program%20view%20of%20the%20Monitor%20window%2E%20This%20is%20also%20necessary%20if%20you%20want%20to%20see%20your%20effects%2E%20%0D%5F%5FRendering%20might%20take%20quite%20a%20lot%20of%20time%20depending%20on%20how%20many%20changes%20you%20have%20made%2C%20and%20how%20many%20effects%20you%20have%20included%2C%20and%20how%20powerful%20your%20system%20is%2C%20as%20this%20involves%20a%20lot%20of%20calculating%2E%2E%2E%20%20%0D%20%5F%5FThe%20more%20you%20altered%2C%20the%20more%20it%20will%20take%2E%20You%20might%20opt%20for%20%22Render%20all%22%20or%20just%20effects%20if%20you%20don%27t%20want%20to%20go%20over%20the%20whole%20process%2E%0D%20%5F%5FRecent%20applications%20should%20provide%20Real%2DTime%20Preview%20capabilities%20which%20render%20the%20frames%20of%20the%20sequence%20on%20the%20fly%2E%20%0D%5F%5FThe%20trick%20is%20to%20select%20the%20part%20you%20want%20to%20preview%20instead%20of%20rendering%20the%20whole%20sequence%2E%20%5F%5FThis%20should%20save%20a%20considerable%20amount%20of%20time%2E</texte><decoupe_texte>0,165,282,487,630,751,846</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="61" /><bouton posx="13" posy="92" /><bouton posx="16" posy="138" /><bouton posx="16" posy="184" /><bouton posx="13" posy="214" /><bouton posx="126" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

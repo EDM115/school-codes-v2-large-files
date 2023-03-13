@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="450" posy="292.4" largeur="104" hauteur="30">compresses%20sound%20and%20maximizes%20volume</element>
+			<element type="1" posx="80" posy="92.4" largeur="104" hauteur="30">SONS%2FS061301%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="372.4" largeur="104" hauteur="30">adds%20coloration</element>
+			<element type="1" posx="80" posy="132.4" largeur="104" hauteur="30">SONS%2FS061302%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="412.4" largeur="104" hauteur="30">simulates%20many%20sources%20from%20one%20single%20sound</element>
+			<element type="1" posx="80" posy="172.4" largeur="104" hauteur="30">SONS%2FS061303%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="92.4" largeur="104" hauteur="30">cuts%20signals%20under%20a%20defined%20amplitude%20threshold</element>
+			<element type="1" posx="80" posy="212.4" largeur="104" hauteur="30">SONS%2FS061304%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="212.4" largeur="104" hauteur="30">forces%20a%20waveform%20to%20a%20specified%20shape%20</element>
+			<element type="1" posx="80" posy="252.4" largeur="104" hauteur="30">SONS%2FS061305%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="132.4" largeur="104" hauteur="30">creates%20a%20different%20envelope%20while%20altering%20pitch%20</element>
+			<element type="1" posx="80" posy="292.4" largeur="104" hauteur="30">SONS%2FS061306%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="172.4" largeur="104" hauteur="30">mixes%20a%20modulated%20delay</element>
+			<element type="1" posx="80" posy="332.4" largeur="104" hauteur="30">SONS%2FS061307%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="252.4" largeur="104" hauteur="30">applies%20a%20sinusoidal%20or%20square%2Dshaped%20gain</element>
+			<element type="1" posx="80" posy="372.4" largeur="104" hauteur="30">SONS%2FS061308%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="450" posy="332.4" largeur="104" hauteur="30">displays%20a%20description%20of%20the%20tool%27s%20function</element>
+			<element type="1" posx="80" posy="412.4" largeur="104" hauteur="30">SONS%2FS061309%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Audio%20Editing</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20Sounlink%20%20</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20Match%20the%20definitions%20%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

@@ -1,0 +1,63 @@
+<LFIXML type="dnd_texte_texte" contact_url="http://www.laforme.net">
+	<contenu>
+		<legende />
+		<contexte />
+		<textedrop posx="29" posy="228" largeur="716" hauteur="113">
+			<extrait type="texte" >Moving%20the%20cursor%20to%20the%20right%20</extrait>
+			<extrait type="dnd" classe="8">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20brightness%20to%20increase%2E%20The%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20of%20this%20tool%20is%20to%20crop%20pictures%2E%20The%20left%20side%20icons%20are%20</extrait>
+			<extrait type="dnd" classe="40">%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20libraries%2E%20Pressing%20this%20key%20will%20</extrait>
+			<extrait type="dnd" classe="33">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20reverting%20to%20the%20previous%20version%2E%20Click%20on%20%22preview%22%20before%20</extrait>
+			<extrait type="dnd" classe="56">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20the%20tool%20to%20the%20selected%20area%2E%20The%20</extrait>
+			<extrait type="dnd" classe="57">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20of%20this%20key%20will%20be%20to%20discard%20changes%2E%20%2E%20This%20filter%20</extrait>
+			<extrait type="dnd" classe="49">%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E</extrait>
+			<extrait type="texte" >%20%2C%20</extrait>
+			<extrait type="dnd" classe="25">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20effects%2E%20This%20command%20will%20</extrait>
+			<extrait type="dnd" classe="41">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20a%20mirror%20effect%2E%20Don%27t%20use%20too%20many%20filters%20or%20you%27ll%20</extrait>
+			<extrait type="dnd" classe="16">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20starting%20all%20over%20again%2E%20</extrait>
+			<extrait type="dnd" classe="32">%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20you%20select%20that%20option%2C%20objects%20</extrait>
+			<extrait type="dnd" classe="24">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20be%20hidden%2E</extrait>
+		</textedrop>
+		<textedrag posx="29" posy="114" largeur="713" hauteur="87">
+			<extrait type="dnd" classe="56">applying</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="48">purpose</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="40">for%20managing</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="32">if</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="24">will</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="16">end%20up</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="8">causes</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="57">effect</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="49">generates</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="41">produce</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="33">result%20in</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="25">distorsion</extrait>
+		</textedrag>
+	</contenu>
+	<titre>Digital%20Imaging%20%20%20</titre>
+	<soustitre>Cause%2C%20consequence%2C%20and%20result%2E</soustitre>
+	<environnement>Language%20Structures%20%20%20%281%29</environnement>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Complete%20the%20text%20with%20the%20correct%20forms</texte_aide>
+</LFIXML>

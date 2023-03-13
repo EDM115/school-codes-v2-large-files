@@ -1,0 +1,13 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">You%20may%20get%20information%20about%20the%20frequency%20of%20any%20portion%20of%20a%20track%2E</enonce>
+		<enonce type="0">Meters%20allow%20you%20to%20apply%20effects%20on%20sound%20tracks%2E</enonce>
+		<enonce type="1">Markers%20help%20you%20spot%20sections%20of%20a%20track%2E</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Analysing%20sound</soustitre>
+	<nom_exercice>Listening%20</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>sons%2FNouveaux%28swf%29%2FS060701%2Eswf</url_son><decoupe_son>1,73,174,224,280,344,389</decoupe_son><texte>%5F%5FBefore%20you%20apply%20effect%20or%20perform%20any%20editing%20operation%20it%20is%20advisable%20to%20analyse%20sound%2E%0D%5F%5FThe%20analysis%20menu%20will%20provide%20information%20about%20peaks%2C%20which%20are%20the%20highest%20points%20volume%20may%20reach%20in%20a%20particular%20track%2C%20%5F%5Floudness%20and%20pitch%20or%20the%20frequency%20of%20the%20sound%20you%20actually%20hear%2E%20%0D%5F%5FOnce%20your%20samples%20are%20displayed%2C%20you%20can%20even%20manually%20redraw%20them%2E%20%0D%5F%5FBefore%20you%20do%20that%2C%20you%20first%20need%20to%20zoom%20in%20to%20your%20selection%20at%20least%20one%20to%20eight%2E%20%5F%5FThat%27s%20where%20markers%20might%20be%20helpful%2E%20%5F%5FYou%20can%20insert%2C%20move%2C%20and%20even%20rename%20as%20many%20as%20you%20like%2C%20so%20that%20you%20know%20where%20changes%20may%20be%20applied%2E</texte><decoupe_texte>0,93,220,291,362,451,492</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="318" posy="61" /><bouton posx="13" posy="92" /><bouton posx="13" posy="122" /><bouton posx="82" posy="138" /><bouton posx="304" posy="138" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>This%20will%20result%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20areas</enonce>
+			<choix>
+				<choix type="0">to%20soften</choix>
+				<choix type="1">in%20softening</choix>
+				<choix type="0">softening</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>You%20may%20adjust%20the%20contrast%20by%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20the%20slider</enonce>
+			<choix>
+				<choix type="0">move</choix>
+				<choix type="0">to%20move</choix>
+				<choix type="0">moving</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>Drag%20the%20tool%20bar%20to%20the%20left%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6you%20can%20see%20the%20palette%2E</enonce>
+			<choix>
+				<choix type="0">so%20as%20to</choix>
+				<choix type="0">so%20that</choix>
+				<choix type="0">for</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>%20This%20command%20%20will%20cause%20luminence%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E</enonce>
+			<choix>
+				<choix type="0">to%20increase</choix>
+				<choix type="0">increase</choix>
+				<choix type="0">increasing</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Digital%20Imaging</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%28QCM%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form%3A</texte_aide>
+</LFIXML>

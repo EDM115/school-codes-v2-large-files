@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">The%20more%20frames%20per%20second%20you%20want%2C%20the%20more%20disk%20space%20you%27ll%20need%2E</enonce>
+		<enonce type="0">5%2E1%20is%20a%20video%20standard%2E</enonce>
+		<enonce type="0">You%20need%20to%20input%20your%20own%20settings%20each%20time%20you%20start%20a%20new%20project%2E</enonce>
+		<enonce type="1">HD%20has%20a%20different%20aspect%20ratio%20from%20Standard%20TV%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Starting%20a%20New%20Project</soustitre>
+	<nom_exercice>Listening%20%20%20%282%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050201%2Eswf</url_son><decoupe_son>1,112,264,413,514,638,741,866</decoupe_son><texte>%5F%5FAs%20you%20start%20a%20new%20project%2C%20you%20will%20be%20offered%20the%20option%20to%20load%20presets%20in%20standard%20or%20wide%20screen%20mode%20in%2032%20or%2048%20kilo%20hertz%2E%20%0D%5F%5FYou%20may%20also%20want%20to%20choose%20between%20Pal%20and%20NSTC%20standards%2E%20Custom%20settings%20let%20you%20opt%20for%20various%20editing%20modes%20such%20as%20DV%20Playback%20or%20video%20for%20Windows%2E%20%0D%5F%5FTimebase%20is%20expressed%20in%20frames%20per%20second%2E%20The%20more%20frames%20%2C%20the%20better%20the%20quality%2C%20but%20bear%20in%20mind%20this%20will%20require%20more%20disk%20space%20and%20fast%20read%20and%20write%20capabilities%2E%20%5F%5FMany%20applications%20allow%20a%20wide%20range%20of%20audio%20formats%2C%20which%20may%20vary%20from%2032%20to%2096%20khz%2E%20%0D%5F%5FThis%20can%20be%20set%20for%20mono%2C%20Stereo%20or%205%2E1%20sound%20formats%2E%20The%20default%20video%20sequence%20can%20have%20up%20to%2099%20tracks%2E%20%5F%5FThe%20default%20capture%20format%20should%20probably%20be%20DV%20also%20known%20as%20IEE1394%2E%20%0D%5F%5FYou%20are%20fortunately%20given%20the%20opportunity%20to%20save%20all%20these%20settings%20as%20customised%20presets%2C%20which%20will%20save%20a%20lot%20of%20time%20each%20time%20you%20start%20a%20new%20sequence%2E%20%5F%5FYou%20may%20also%20want%20to%20select%20the%20aspect%20ratio%20which%20is%204%3A3%20for%20a%20standard%20TV%20or%20monitor%2C%20and%2016%3A9%20for%20High%20Definition%20TV%2E</texte><decoupe_texte>0,134,293,470,562,672,747,907</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="13" posy="92" /><bouton posx="180" posy="122" /><bouton posx="13" posy="153" /><bouton posx="237" posy="168" /><bouton posx="13" posy="199" /><bouton posx="97" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

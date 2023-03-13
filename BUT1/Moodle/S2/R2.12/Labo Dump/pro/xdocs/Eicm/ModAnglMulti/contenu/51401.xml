@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="511" posy="111.2" largeur="104" hauteur="30">space%20between%20sequences</element>
+			<element type="1" posx="147" posy="288.2" largeur="104" hauteur="30">gap</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="178.2" largeur="104" hauteur="30">overall%20audio%20output%20volume</element>
+			<element type="1" posx="147" posy="149.2" largeur="104" hauteur="30">gain</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="358.2" largeur="104" hauteur="30">frame%20per%20second</element>
+			<element type="1" posx="147" posy="117.2" largeur="104" hauteur="25">fps</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="214.2" largeur="104" hauteur="30">bubble</element>
+			<element type="1" posx="147" posy="324.2" largeur="104" hauteur="30">small%20drop</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="322.2" largeur="104" hauteur="30">quick%20assembly%20of%20raw%20clips</element>
+			<element type="1" posx="147" posy="185.2" largeur="104" hauteur="30">rough%20cut</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="143.2" largeur="104" hauteur="30">show</element>
+			<element type="1" posx="147" posy="395.2" largeur="104" hauteur="30">display</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="249.2" largeur="104" hauteur="30">simplified</element>
+			<element type="1" posx="147" posy="219.2" largeur="104" hauteur="30">streamlined</element>
+		</couple>
+		<couple>
+			<element type="0" posx="511" posy="83.2" largeur="104" hauteur="30">replacing%20part%20of%20a%20sequence%20</element>
+			<element type="1" posx="147" posy="359.2" largeur="104" hauteur="30">overlay</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="287.2" largeur="104" hauteur="30">duplicate%20from%20a%20tape</element>
+			<element type="1" posx="147" posy="88.2" largeur="104" hauteur="22">dub</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="396.2" largeur="104" hauteur="30">make%20something%20ineffective</element>
+			<element type="1" posx="147" posy="253.2" largeur="104" hauteur="30">override</element>
+		</couple>
+	</couples>
+	<titre>Video%2DEditing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%282%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

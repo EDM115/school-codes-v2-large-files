@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="500" posy="128" largeur="104" hauteur="30">range%20of%20colours%20a%20device%20can%20turn%20over</element>
+			<element type="1" posx="147" posy="380" largeur="104" hauteur="30">flip</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="235.6" largeur="104" hauteur="30">value%20above%20wich%20colours%20or%20effects%20are%20inverted</element>
+			<element type="1" posx="147" posy="163.6" largeur="104" hauteur="30">threshold</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="163.6" largeur="104" hauteur="30">trim</element>
+			<element type="1" posx="147" posy="308" largeur="104" hauteur="30">cut</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="343.6" largeur="104" hauteur="30">combine</element>
+			<element type="1" posx="147" posy="271.6" largeur="104" hauteur="30">blend</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="308" largeur="104" hauteur="30">swear%20paint%20over%20an%20object</element>
+			<element type="1" posx="147" posy="128" largeur="104" hauteur="30">smudge</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="199.6" largeur="104" hauteur="30">combine</element>
+			<element type="1" posx="147" posy="92" largeur="104" hauteur="30">node</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="380" largeur="104" hauteur="30">made%20of%20pixels%20with%20colour%20and%20location%20values</element>
+			<element type="1" posx="147" posy="235.6" largeur="104" hauteur="26">bitmapped</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="271.6" largeur="104" hauteur="30">change%20the%20resolution</element>
+			<element type="1" posx="147" posy="199.6" largeur="104" hauteur="33">resample</element>
+		</couple>
+		<couple>
+			<element type="0" posx="500" posy="92" largeur="104" hauteur="22">diminish%20an%20effect</element>
+			<element type="1" posx="147" posy="343.6" largeur="104" hauteur="30">fade</element>
+		</couple>
+	</couples>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Browsing%20the%20Internet</soustitre>
+	<nom_exercice>Words%20and%20expressions%20%20%284%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

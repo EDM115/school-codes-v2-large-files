@@ -1,0 +1,16 @@
+<LFIXML type="dnd_image" contact_url="http://www.laforme.net">
+	<couples>
+		<element posx="-45" posy="71">Toolbar%0D</element>
+		<element posx="-5" posy="6">Menus</element>
+		<element posx="284" posy="95">Thumbnails</element>
+		<element posx="190" posy="64">Scroll%20bar</element>
+		<element posx="286" posy="133">Palette</element>
+		<element posx="73" posy="116">Image%20window</element>
+	</couples>
+	<imageCibleDrop>images%2Fphotoshop03%2Ejpg</imageCibleDrop>
+	<titre>Digital%20Imaging</titre>
+	<soustitre>Your%20working%20area</soustitre>
+	<nom_exercice>Word%20Match%20%281%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20the%20words%20to%20the%20right%20place</texte_aide>
+</LFIXML>

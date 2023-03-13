@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">A%20higher%20bit%2Ddepth%20provides%20better%20sound%20quality%2E</enonce>
+		<enonce type="0">The%20sampling%20rate%20is%20expressed%20in%20bits%2E%20</enonce>
+		<enonce type="1">A%20larger%20sound%20file%20requires%20more%20processing%20time%2E</enonce>
+		<enonce type="0">Four%20gigabytes%20is%20the%20upper%20limit%20of%20files%20that%20can%20be%20processed%2E</enonce>
+		<enonce type="0">The%20choices%20you%20make%20when%20creating%20an%20audio%20file%20are%20not%20reversible%2E</enonce>
+	</propositions>
+	<titre>Audio%20Editing</titre>
+	<soustitre>Creating%20a%20new%20project</soustitre>
+	<nom_exercice>Listening%20</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS060201%2Eswf</url_son><decoupe_son>1,64,129,224,361,438</decoupe_son><texte>%5F%5F%20When%20you%20create%20a%20new%20project%2C%20you%20have%20to%20specify%20the%20sampling%20rate%20expressed%20in%20hertz%2E%20%0D%5F%5FA%20typical%20range%20would%20be%20from%208000%20to%20192%20000%20%2E%20%5F%5FYou%20will%20also%20need%20to%20decide%20whether%20you%20want%20mono%20or%20stereo%2C%20as%20well%20as%20the%20bit%2Ddepth%20from%208%20to%2064%20bits%2E%20%0D%5F%5FBear%20in%20mind%20that%20the%20higher%20all%20these%20values%20are%2C%20the%20better%20the%20quality%20will%20be%2C%20but%20the%20more%20disk%20space%20this%20will%20require%2C%20and%20the%20longer%20each%20editing%20operation%20might%20take%2E%20%0D%5F%5FYou%20will%20probably%20get%20full%20support%20for%204%20gigabyte%20or%20larger%20files%20if%20you%20need%20to%2E%20%0D%5F%5FWhatever%20you%20choose%2C%20no%20change%20is%20final%20and%20you%20will%20always%20be%20able%20to%20alter%20formats%2C%20or%20compression%20whenever%20you%20want%2E</texte><decoupe_texte>0,93,143,252,431,516</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="46" /><bouton posx="283" posy="46" /><bouton posx="13" posy="92" /><bouton posx="13" posy="138" /><bouton posx="13" posy="168" /></boutons></SONOTEXTE>
+	<image_fond>images%252Fimagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

@@ -1,0 +1,17 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Digitizing%20is%20converting%20signal%20into%20a%20form%20which%20may%20be%20processed%20by%20computers%2E</enonce>
+		<enonce type="1">Video%2Dediting%20applications%20only%20let%20you%20digitize%20video%2E</enonce>
+		<enonce type="1">The%20Digital%20Video%20standard%20lets%20you%20avoid%20digitizing%2E</enonce>
+		<enonce type="1">You%20can%20store%20analog%20video%20%20files%20on%20a%20PC%2E%20</enonce>
+		<enonce type="1">You%20may%20only%20digitize%20video%2E</enonce>
+		<enonce type="1">Firewire%20is%20a%20video%20standard%2E</enonce>
+		<enonce type="1">With%20Firewire%20transfers%20video%20quality%20remains%20the%20same%2E</enonce>
+	</propositions>
+	<titre>Video%2DEditing</titre>
+	<soustitre>Capture</soustitre>
+	<nom_exercice>Listening%20%20%20%285%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="386" hauteur="305" masque="true" switchmasque="true"><url_son>SONS%2FS050501%2Eswf</url_son><decoupe_son>1,158,209,369,434,503,567,760</decoupe_son><texte>%5F%5F%20At%20some%20point%20or%20other%2C%20you%20may%20want%20to%20digitize%20videos%2C%20which%20means%20taking%20analog%20video%20from%20a%20videotape%2C%20or%20a%20camera%20plugged%20into%20your%20PC%2C%20and%20converting%20them%20to%20files%20which%20can%20be%20used%20for%20later%20editing%2E%20%5F%5FThis%20applies%20to%20various%20media%20such%20as%20video%20or%20audio%2E%20%5F%5FMost%20new%20cameras%20such%20as%20DV%20camcorders%2C%20and%20audio%20devices%20are%20now%20capable%20of%20saving%20images%20and%20sound%20directly%20in%20a%20digital%20format%2C%20which%20is%20of%20course%20quite%20convenient%20for%20processing%20and%20storing%2E%20%0D%5F%5FTransfers%20will%20be%20best%20performed%20if%20using%20such%20interfaces%20as%20FIREWIRE%2E%20%5F%5FThis%20standard%20may%20support%20transfer%20rates%20of%20up%20to%20%20800%20Mega%20bytes%20per%20second%2E%20%5F%5FThere%20are%20two%20types%20of%20capture%20devices%2C%20analog%20and%20Firewire%2E%20%0D%5F%5FWhereas%20analog%20capture%20devices%20import%20%20signals%20from%20camcorders%2C%20or%20cameras%20digitize%20it%20and%20compress%20the%20video%20file%20on%20the%20fly%2C%20Firewire%20capture%20cards%20merely%20transfer%20already%20compressed%20data%20onto%20your%20hard%20drive%2E%20That%20way%2C%20no%20further%20compression%20is%20required%2E%20Firewire%20cards%20allow%20you%20create%20%22generation%20loss%22%20free%20%20video%2E%20%0D</texte><decoupe_texte>0,210,266,464,537,617,681</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="55" posy="61" /><bouton posx="352" posy="61" /><bouton posx="13" posy="122" /><bouton posx="78" posy="138" /><bouton posx="144" posy="153" /><bouton posx="13" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%3A</texte_aide>
+</LFIXML>

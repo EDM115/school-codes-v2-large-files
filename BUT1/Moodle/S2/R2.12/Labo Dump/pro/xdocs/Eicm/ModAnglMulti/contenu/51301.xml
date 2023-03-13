@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="400" posy="341.2" largeur="104" hauteur="30">increase%20or%20decraease%20brightness%20or%20sound%20volume</element>
+			<element type="1" posx="56" posy="89.6" largeur="104" hauteur="30">SONS%2FS051301a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="197.2" largeur="104" hauteur="30">deducted%09</element>
+			<element type="1" posx="56" posy="125.6" largeur="104" hauteur="30">SONS%2FS051302a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="269.2" largeur="104" hauteur="30">removing%20part%20of%20a%20clip%20without%20deleting%20them%20from%20the%20original</element>
+			<element type="1" posx="56" posy="161.2" largeur="104" hauteur="30">SONS%2FS051303a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="305.2" largeur="104" hauteur="30">compressor%20decompressor</element>
+			<element type="1" posx="56" posy="197.2" largeur="104" hauteur="30">SONS%2FS051304a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="89.6" largeur="104" hauteur="30">get%20rid%20of</element>
+			<element type="1" posx="56" posy="235.2" largeur="104" hauteur="30">SONS%2FS051305a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="125.6" largeur="104" hauteur="30">instantly</element>
+			<element type="1" posx="56" posy="269.2" largeur="104" hauteur="30">SONS%2FS051306a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="161.2" largeur="104" hauteur="30">creating%20the%20final%20video%20file</element>
+			<element type="1" posx="56" posy="305.2" largeur="104" hauteur="30">SONS%2FS051307a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="377.2" largeur="104" hauteur="30">compressed%20transmitted%20video%20or%20audio%20file</element>
+			<element type="1" posx="56" posy="341.2" largeur="104" hauteur="30">SONS%2FS051308a%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="400" posy="233.2" largeur="104" hauteur="30">non%20destructive%20compression%20method</element>
+			<element type="1" posx="56" posy="377.2" largeur="104" hauteur="30">SONS%2FS051309a%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Video%2DEditing%20%20%20%20%20%20%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20Soundlink%20%20%281%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20Match%20the%20definitions%20%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>
