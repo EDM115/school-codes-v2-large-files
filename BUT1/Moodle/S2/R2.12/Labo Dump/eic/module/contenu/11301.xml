@@ -1,0 +1,76 @@
+<LFIXML type="dnd_texte_texte" contact_url="http://www.laforme.net">
+	<contenu>
+		<legende />
+		<contexte />
+		<textedrop posx="29" posy="228" largeur="716" hauteur="113">
+			<extrait type="texte" >Type%20a%20</extrait>
+			<extrait type="dnd" classe="33">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20in%20the%20search%20</extrait>
+			<extrait type="dnd" classe="40">%2E%2E%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%2C%20and%20then%20click%20on%20search%2E%20You%20can%20</extrait>
+			<extrait type="dnd" classe="42">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20your%20research%20by%20typing%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20or%20include%20words%20by%20typing%20%20</extrait>
+			<extrait type="dnd" classe="56">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20%20Your%20question%20is%20called%20a%20</extrait>
+			<extrait type="dnd" classe="34">%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20%20Make%20sure%20you%20don%27t%20</extrait>
+			<extrait type="dnd" classe="50">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20words%20or%20the%20search%20engine%20will%20</extrait>
+			<extrait type="dnd" classe="26">%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20%22no%20results%20</extrait>
+			<extrait type="dnd" classe="25">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20your%20query%22%2E%20Use%20</extrait>
+			<extrait type="dnd" classe="32">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20to%20group%20complex%20searches%2E%20If%20you%20</extrait>
+			<extrait type="dnd" classe="57">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20a%20word%2C%20it%20means%20it%20is%20part%20of%20your%20search%2E%20Search%20engines%20are%20huge%20computers%20</extrait>
+			<extrait type="dnd" classe="49">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20millions%20of%20pages%20every%20day%2E%20When%20you%20look%20for%20</extrait>
+			<extrait type="dnd" classe="41">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20they%20check%20in%20their%20</extrait>
+			<extrait type="dnd" classe="24">%E2%80%A6%2E%2E%2E</extrait>
+			<extrait type="texte" >bases%20if%20anything%20</extrait>
+			<extrait type="dnd" classe="58">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20your%20query%2E</extrait>
+		</textedrop>
+		<textedrag posx="29" posy="114" largeur="713" hauteur="87">
+			<extrait type="dnd" classe="56">%E2%80%9C%2B%E2%80%9D</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%9CAND%E2%80%9D</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="40">box</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="32">brackets</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="24">data</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="57">include</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="49">indexing</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="41">information</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="33">keyword</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="25">matched</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="58">matches</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="50">misspell</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="42">narrow</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="34">query</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="26">return</extrait>
+			<extrait type="texte" >%3Cbr%3E</extrait>
+		</textedrag>
+	</contenu>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Surfing%20tips</soustitre>
+	<environnement>Words%20and%20expressions</environnement>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20and%20drop%20the%20correct%20forms%20to%20complete%20the%20text</texte_aide>
+</LFIXML>

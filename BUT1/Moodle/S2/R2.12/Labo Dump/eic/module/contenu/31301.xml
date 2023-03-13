@@ -1,0 +1,35 @@
+<LFIXML type="dnd_categories" contact_url="http://www.laforme.net">
+	<contenu>
+		<categories>
+			<classe type="0">Do</classe>
+			<classe type="1">Don%27t%20do</classe>
+		</categories>
+		<texte>
+			<extrait type="texte">%2D%20</extrait>
+			<extrait type="dnd" classe="1">Send%20chain%20letters%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Be%20careful%20about%20dates%20and%20the%20month%2Fday%20order%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Include%20your%20email%20address%20in%20your%20signature%20footer%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Email%20superiors%20directly%20without%20following%20hierarchy%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Gossip%20about%20other%20people%20in%20emails%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Cite%20your%20quotes%20or%20references%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Forward%20personal%20emails%20to%20mailing%20lists%20without%20the%20sender%27s%20agreement%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Systematically%20ask%20for%20return%20receipts%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Use%20emoticons%20when%20you%20are%20being%20humorous%20or%20joking%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Use%20too%20many%20acronyms%2E</extrait>
+		</texte>
+	</contenu>
+	<titre>Email%20</titre>
+	<soustitre>Words%20and%20ecpressions%20%2802%29</soustitre>
+	<environnement>Do%20or%20don%27t%20do</environnement>
+	<background>imagedefond.swf</background>
+	<texte_aide>Put%20the%20forms%20into%20the%20right%20boxes</texte_aide>
+</LFIXML>

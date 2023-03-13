@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="478" posy="351.4" largeur="104" hauteur="30">Helps%20you%20create%20formatted%20messages</element>
+			<element type="1" posx="142" posy="321.4" largeur="104" hauteur="30">template</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="210.4" largeur="104" hauteur="30">The%20actual%20text%20you%20type%20in%20a%20message</element>
+			<element type="1" posx="143" posy="285.4" largeur="104" hauteur="26">body</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="318.4" largeur="104" hauteur="30">Send%20a%20message%20to%20someone%20else</element>
+			<element type="1" posx="143" posy="179.4" largeur="104" hauteur="30">forward</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="143.4" largeur="104" hauteur="30">Helps%20the%20server%20identify%20you</element>
+			<element type="1" posx="143" posy="250.4" largeur="104" hauteur="30">user%20name</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="175.4" largeur="104" hauteur="28">Answer%20a%20message%20you%20have%20received</element>
+			<element type="1" posx="142" posy="356.4" largeur="104" hauteur="30">reply</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="284.4" largeur="104" hauteur="30">Once%20you%20message%20is%20completed</element>
+			<element type="1" posx="142" posy="390.4" largeur="104" hauteur="30">send</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="108.4" largeur="104" hauteur="31">Temporary%20version%20of%20your%20message</element>
+			<element type="1" posx="143" posy="109.4" largeur="104" hauteur="30">draft</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="249.4" largeur="104" hauteur="30">Include%20a%20document%20in%20your%20message</element>
+			<element type="1" posx="143" posy="144.4" largeur="104" hauteur="27">attach</element>
+		</couple>
+		<couple>
+			<element type="0" posx="478" posy="386.4" largeur="104" hauteur="30">Checks%20the%20spelling%20mistakes</element>
+			<element type="1" posx="143" posy="214.4" largeur="104" hauteur="30">Spell</element>
+		</couple>
+	</couples>
+	<titre>Email%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20link%20%20</nom_exercice>
+	<image_fond>imagedefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20definitions%20%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition</texte_aide>
+</LFIXML>

@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="614" posy="206.8" largeur="104" hauteur="30">problem</element>
+			<element type="1" posx="453" posy="254.8" largeur="104" hauteur="30">issue</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="367.8" largeur="104" hauteur="30">space</element>
+			<element type="1" posx="440" posy="201.8" largeur="104" hauteur="30">room</element>
+		</couple>
+		<couple>
+			<element type="0" posx="615" posy="285.8" largeur="104" hauteur="30">gadget</element>
+			<element type="1" posx="341" posy="162.8" largeur="104" hauteur="30">gizmo</element>
+		</couple>
+		<couple>
+			<element type="0" posx="337" posy="90.8" largeur="104" hauteur="30">difficult</element>
+			<element type="1" posx="346" posy="252.8" largeur="104" hauteur="30">tricky</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="131.8" largeur="104" hauteur="30">remember</element>
+			<element type="1" posx="267" posy="312.8" largeur="104" hauteur="30">bear%20in%20mind</element>
+		</couple>
+		<couple>
+			<element type="0" posx="613" posy="130.8" largeur="104" hauteur="30">pick%2Dup</element>
+			<element type="1" posx="230" posy="254.8" largeur="104" hauteur="30">choose</element>
+		</couple>
+		<couple>
+			<element type="0" posx="615" posy="363.8" largeur="104" hauteur="30">go%20and%20get</element>
+			<element type="1" posx="252" posy="200.8" largeur="104" hauteur="30">reach%20for</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="285.8" largeur="104" hauteur="30">reseller</element>
+			<element type="1" posx="450" posy="309.8" largeur="104" hauteur="30">retailer</element>
+		</couple>
+		<couple>
+			<element type="0" posx="67" posy="205.8" largeur="104" hauteur="30">bundle</element>
+			<element type="1" posx="359" posy="353.8" largeur="104" hauteur="30">package</element>
+		</couple>
+	</couples>
+	<titre>Hardware%20%20%20%20%20%20%20</titre>
+	<soustitre>Words%20and%20expressions%20%20%2801%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20equivalent%2E</texte_aide>
+</LFIXML>

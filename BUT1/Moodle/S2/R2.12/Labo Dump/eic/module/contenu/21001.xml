@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">A%20screen%20size%20is%20expressed%20in%20pixels</enonce>
+		<enonce type="1">%C2%AB%20Landscape%20%C2%BB%20means%20horizontal%20display</enonce>
+		<enonce type="1">A%20slow%20refresh%2Drate%20may%20strain%20your%20eyes</enonce>
+		<enonce type="0">The%20lower%20the%20refresh%20rate%20is%2C%20the%20better</enonce>
+	</propositions>
+	<titre>Hardware</titre>
+	<soustitre>Which%20screen%3F</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS021001%2Eswf</url_son><decoupe_son>1,126,197,305,461,575,659,726,866</decoupe_son><texte>%5F%5FComputer%20users%20spend%20an%20amazing%20amount%20of%20time%20reading%20lines%20of%20texts%2C%20editing%20graphics%2C%20watching%20videos%2C%20and%20it%20all%20involves%20staring%20at%20a%20monitor%2E%20%5F%5FScreens%20come%20in%20various%20types%20and%20sizes%2E%20Screen%20size%20is%20measured%20in%20inches%2E%20%5F%5FThe%20seventeen%2Dinch%20ordinary%20monitor%20has%20long%20remained%20a%20standard%2C%20but%20now%20LCD%20TFT%20screens%20are%20taking%20over%2E%0D%5F%5FThey%20are%20known%20as%20flat%20screens%2E%20Until%20recently%20ordinary%20monitors%20have%20had%20the%20lead%2C%20but%20flat%20TFT%20screens%20are%20so%20handy%20and%20allow%20you%20to%20save%20so%20much%20space%20that%20they%20are%20now%20taking%20over%2E%20%0D%5F%5FOne%20element%20you%20should%20watch%20for%20is%20the%20%E2%80%9Crefresh%20rate%E2%80%9D%20which%20tells%20you%20how%20many%20times%20per%20second%20the%20display%20on%20your%20screen%20is%20updated%2E%20%5F%5FPeople%20who%20spend%20a%20long%20time%20in%20front%20of%20their%20screens%20will%20find%20that%20low%20refresh%2Drates%20are%20really%20tiring%20for%20their%20eyes%2E%20%5F%5FRates%20should%20be%20at%20least%20eighty%2C%20to%20ensure%20comfortable%20working%20conditions%2E%20%0D%5F%5FIf%20you%20are%20working%20in%20Desktop%20Publishing%2C%20you%20may%20be%20interested%20in%20screens%20that%20may%20be%20manually%20tilted%2C%20so%20as%20to%20allow%20vertical%20display%20known%20as%20%E2%80%9Cportrait%E2%80%9D%20rather%20than%20%E2%80%9Clandscape%E2%80%9D%2E%20%0D%5F%5FPDAs%20and%20some%20laptops%2C%20or%20even%20bank%20terminals%20in%20shopping%20malls%20may%20be%20equipped%20with%20touch%20screens%2E</texte><decoupe_texte>0,150,228,337,525,663,787,865,1049</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="59" posy="46" /><bouton posx="123" posy="61" /><bouton posx="13" posy="92" /><bouton posx="13" posy="138" /><bouton posx="369" posy="153" /><bouton posx="262" posy="184" /><bouton posx="13" posy="214" /><bouton posx="13" posy="260" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

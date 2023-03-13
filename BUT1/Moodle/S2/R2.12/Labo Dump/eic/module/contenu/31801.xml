@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>Would%20you%20mind%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20a%20copy%20of%20Mr%20Brown%27s%20answer%3F</enonce>
+			<choix>
+				<choix type="0">send</choix>
+				<choix type="0">sending</choix>
+				<choix type="1">to%20send</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>I%20am%20looking%20forward%20to%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20you</enonce>
+			<choix>
+				<choix type="1">meeting</choix>
+				<choix type="0">meet</choix>
+				<choix type="0">to%20meet</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>I%20would%20be%20delighted%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20in%20our%20company</enonce>
+			<choix>
+				<choix type="0">welcoming</choix>
+				<choix type="1">to%20welcome</choix>
+				<choix type="0">welcome</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>Shall%20we%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20Mr%20%2EJones%20to%20join%20us%3F%20</enonce>
+			<choix>
+				<choix type="1">ask</choix>
+				<choix type="0">to%20ask</choix>
+				<choix type="0">asking</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Email%20%20%20</titre>
+	<soustitre>Language%20Structures%20%282%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagedefond%2Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form</texte_aide>
+</LFIXML>

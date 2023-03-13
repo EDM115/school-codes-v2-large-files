@@ -1,0 +1,116 @@
+<LFIXML type="accent_tonique" contact_url="http://www.laforme.net">
+	<contenu>
+		<proposition urlSon="Sons/S032101.swf">
+			<extrait type="texte">Email%20is%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">ex</syllabe>
+				<syllabe type="1">pec</syllabe>
+				<syllabe type="0">ted%20</syllabe>
+			</extrait>
+			<extrait type="texte">to%20become%20an%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">ac</syllabe>
+				<syllabe type="1">know</syllabe>
+				<syllabe type="0">ledged%20</syllabe>
+			</extrait>
+			<extrait type="texte">means%20of%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">communi</syllabe>
+				<syllabe type="1">ca</syllabe>
+				<syllabe type="0">tion%2E</syllabe>
+			</extrait>
+		</proposition>
+		<proposition urlSon="Sons/S032102.swf">
+			<extrait type="texte">Your%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">me</syllabe>
+				<syllabe type="0">ssage</syllabe>
+				<syllabe type="0">%20</syllabe>
+			</extrait>
+			<extrait type="texte">could%20not%20be%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">de</syllabe>
+				<syllabe type="1">li</syllabe>
+				<syllabe type="0">vered%20</syllabe>
+			</extrait>
+			<extrait type="texte">as%20the%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">add</syllabe>
+				<syllabe type="1">ress%20</syllabe>
+			</extrait>
+			<extrait type="texte">was%20not%20set%20properly%20</extrait>
+		</proposition>
+		<proposition urlSon="Sons/S032103.swf">
+			<extrait type="texte">Do%20not%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">al</syllabe>
+				<syllabe type="1">low%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">ad</syllabe>
+				<syllabe type="0">vertising%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">mes</syllabe>
+				<syllabe type="0">sages%20</syllabe>
+			</extrait>
+			<extrait type="texte">to%20flood%20in%20your%20inbox%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">unnneces</syllabe>
+				<syllabe type="1">sa</syllabe>
+				<syllabe type="0">rily</syllabe>
+			</extrait>
+		</proposition>
+		<proposition urlSon="Sons/S032104.swf">
+			<extrait type="texte">The%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">acc</syllabe>
+				<syllabe type="1">coun</syllabe>
+				<syllabe type="0">t%20</syllabe>
+			</extrait>
+			<extrait type="lien">
+				<syllabe type="1">wi</syllabe>
+				<syllabe type="0">zard%20</syllabe>
+			</extrait>
+			<extrait type="texte">will%20help%20you%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">se</syllabe>
+				<syllabe type="0">tup%20</syllabe>
+			</extrait>
+			<extrait type="texte">your%20account</extrait>
+		</proposition>
+		<proposition urlSon="Sons/S032105.swf">
+			<extrait type="lien">
+				<syllabe type="0">Un</syllabe>
+				<syllabe type="1">for</syllabe>
+				<syllabe type="0">tunately%20%20</syllabe>
+			</extrait>
+			<extrait type="texte">your%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">fol</syllabe>
+				<syllabe type="0">ders%20%20</syllabe>
+			</extrait>
+			<extrait type="texte">have%20been%20%20</extrait>
+			<extrait type="lien">
+				<syllabe type="0">de</syllabe>
+				<syllabe type="1">le</syllabe>
+				<syllabe type="0">ted%20</syllabe>
+			</extrait>
+			<extrait type="texte">by%20an%20%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">un</syllabe>
+				<syllabe type="0">known%20</syllabe>
+			</extrait>
+			<extrait type="texte">type%20of%20</extrait>
+			<extrait type="lien">
+				<syllabe type="1">vi</syllabe>
+				<syllabe type="0">rus%20</syllabe>
+			</extrait>
+		</proposition>
+	</contenu>
+	<titre>Email%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Speaking%20</nom_exercice>
+	<image_fond>imagedefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20click%20on%20the%20strong%20syllable%20in%20the%20blue%20words</texte_aide>
+</LFIXML>

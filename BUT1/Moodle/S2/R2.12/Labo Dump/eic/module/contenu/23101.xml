@@ -1,0 +1,49 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>Scrolling%20through%20pages%20is%20much%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20this%20way%2E</enonce>
+			<choix>
+				<choix type="1">easier</choix>
+				<choix type="0">easiest</choix>
+				<choix type="0">more%20easy</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>This%20screen%20is%20much%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20than%20mine%2E</enonce>
+			<choix>
+				<choix type="0">more%20wide</choix>
+				<choix type="0">wider</choix>
+				<choix type="1">widest</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>This%20processor%20is%20not%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20as%20yours%2E</enonce>
+			<choix>
+				<choix type="0">more%20powerful</choix>
+				<choix type="1">as%20powerful</choix>
+				<choix type="0">less%20powerful</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>Prices%20are%20similar%3A%20this%20screen%20is%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20that%20one%2E</enonce>
+			<choix>
+				<choix type="0">most%20expensive</choix>
+				<choix type="0">more%20expensive</choix>
+				<choix type="1">as%20expensive%20as</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>Fixing%20that%20scanner%20would%20be%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20expensive%20than%20buying%20a%20new%20one%2E</enonce>
+			<choix>
+				<choix type="0">least</choix>
+				<choix type="0">the%20least</choix>
+				<choix type="1">less</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Hardware</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%28QCM%29%20%20%20%282%29</nom_exercice>
+	<image_fond>imagefond%252Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form</texte_aide>
+</LFIXML>

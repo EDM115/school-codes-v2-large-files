@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="556" posy="215.4" largeur="104" hauteur="30">Install%20the%20required%20media%2Dplayer</element>
+			<element type="1" posx="28" posy="380.4" largeur="104" hauteur="30">The%20video%20won%E2%80%99t%20display%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="375.4" largeur="104" hauteur="30">Disable%20graphics</element>
+			<element type="1" posx="28" posy="116.4" largeur="104" hauteur="30">The%20page%20takes%20ages%20downloading%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="343.4" largeur="104" hauteur="24">Check%20the%20URL</element>
+			<element type="1" posx="28" posy="411.4" largeur="104" hauteur="30">I%20get%20a%20404%20error%20message</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="314.4" largeur="104" hauteur="23">Reload%20the%20page</element>
+			<element type="1" posx="28" posy="149.4" largeur="104" hauteur="30">The%20contents%20look%20erratic</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="281.4" largeur="104" hauteur="24">Use%20a%20search%20engine</element>
+			<element type="1" posx="28" posy="182.4" largeur="104" hauteur="30">I%20don%E2%80%99t%20know%20what%20site%20to%20go%20to%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="248.4" largeur="104" hauteur="26">Update%20your%20bookmarks%20</element>
+			<element type="1" posx="28" posy="215.4" largeur="104" hauteur="30">My%20bookmarks%20are%20no%20longer%20valid%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="182.4" largeur="104" hauteur="29">Try%20another%20browser</element>
+			<element type="1" posx="28" posy="247.4" largeur="104" hauteur="30">Some%20pages%20won%E2%80%99t%20display%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="119.4" largeur="104" hauteur="30">Check%20the%20spelling%20of%20your%20username</element>
+			<element type="1" posx="28" posy="281.4" largeur="104" hauteur="30">I%20get%20a%20%E2%80%9Cuser%20unknown%E2%80%9D%20message%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="150.4" largeur="104" hauteur="23">Retype%20your%20password</element>
+			<element type="1" posx="28" posy="315.4" largeur="104" hauteur="30">I%20get%20an%20%E2%80%9Caccess%20denied%E2%80%9D%20message</element>
+		</couple>
+		<couple>
+			<element type="0" posx="556" posy="408.4" largeur="104" hauteur="30">Refine%20your%20search%20criteria</element>
+			<element type="1" posx="28" posy="347.4" largeur="104" hauteur="30">I%20end%20up%20with%20thousands%20of%20links</element>
+		</couple>
+	</couples>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Troubleshooting</soustitre>
+	<nom_exercice>Words%20and%20expressions</nom_exercice>
+	<image_fond></image_fond>
+	<texte_aide>Match%20the%20problems%20%20with%20the%20words%20and%20expressions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition</texte_aide>
+</LFIXML>

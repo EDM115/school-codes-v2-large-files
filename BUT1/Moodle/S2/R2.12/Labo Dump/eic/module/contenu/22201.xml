@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="51" posy="253.4" largeur="104" hauteur="30">to%20replace</element>
+			<element type="1" posx="524" posy="319.4" largeur="104" hauteur="30">to%20take%20over</element>
+		</couple>
+		<couple>
+			<element type="0" posx="51" posy="382.4" largeur="104" hauteur="30">task</element>
+			<element type="1" posx="539" posy="254.4" largeur="104" hauteur="30">job</element>
+		</couple>
+		<couple>
+			<element type="0" posx="52" posy="194.4" largeur="104" hauteur="30">laptop</element>
+			<element type="1" posx="495" posy="201.4" largeur="104" hauteur="30">portable%20computer</element>
+		</couple>
+		<couple>
+			<element type="0" posx="53" posy="129.4" largeur="104" hauteur="30">%22cool%22</element>
+			<element type="1" posx="230" posy="196.4" largeur="104" hauteur="30">nice%2Dlooking</element>
+		</couple>
+		<couple>
+			<element type="0" posx="621" posy="382.4" largeur="104" hauteur="30">220%20volt%20outlet</element>
+			<element type="1" posx="469" posy="377.4" largeur="104" hauteur="30">mains</element>
+		</couple>
+		<couple>
+			<element type="0" posx="620" posy="128.4" largeur="104" hauteur="30">as%20a%20consequence</element>
+			<element type="1" posx="249" posy="379.4" largeur="104" hauteur="30">therefore</element>
+		</couple>
+		<couple>
+			<element type="0" posx="622" posy="256.4" largeur="104" hauteur="30">on%20the%20rise</element>
+			<element type="1" posx="355" posy="120.4" largeur="104" hauteur="30">increasing</element>
+		</couple>
+		<couple>
+			<element type="0" posx="622" posy="320.4" largeur="104" hauteur="30">standard</element>
+			<element type="1" posx="206" posy="319.4" largeur="104" hauteur="30">norm</element>
+		</couple>
+		<couple>
+			<element type="0" posx="622" posy="197.4" largeur="104" hauteur="30">to%20stuff</element>
+			<element type="1" posx="363" posy="413.4" largeur="104" hauteur="30">to%20cram</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="319.4" largeur="104" hauteur="30">quantity</element>
+			<element type="1" posx="201" posy="254.4" largeur="104" hauteur="30">amount</element>
+		</couple>
+	</couples>
+	<titre>Hardware</titre>
+	<soustitre>Words%20and%20expressions%20%20%2803%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20equivalent%2E</texte_aide>
+</LFIXML>

@@ -1,0 +1,41 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>You%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2Ebookmarked%20this%20page%2C%20as%20you%20can%20no%20longer%20find%20it%2E</enonce>
+			<choix>
+				<choix type="1">should%20have</choix>
+				<choix type="0">should</choix>
+				<choix type="0">needn%E2%80%99t%20have%20</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>You%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20view%20this%20document%20once%20you%20have%20installed%20the%20plug%2Din%2E</enonce>
+			<choix>
+				<choix type="1">will%20be%20able%20to</choix>
+				<choix type="0">were%20able%20to</choix>
+				<choix type="0">had%20to</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>They%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20found%20a%20patch%20to%20fix%20this%20bug%20as%20they%20no%20longer%20have%20the%20problem%2E%20</enonce>
+			<choix>
+				<choix type="0">will%20have</choix>
+				<choix type="1">must%20have</choix>
+				<choix type="0">should%20have</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>I%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6find%20the%20site%20I%E2%80%99m%20looking%20for%2C%20if%20I%20keep%20looking%2E</enonce>
+			<choix>
+				<choix type="0">can</choix>
+				<choix type="1">might</choix>
+				<choix type="0">must</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Browsing%20the%20Internet%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%28QCM%29%20%2818%29</nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form</texte_aide>
+</LFIXML>

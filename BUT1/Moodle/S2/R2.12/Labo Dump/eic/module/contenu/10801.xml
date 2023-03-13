@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="305" posy="168.6" largeur="104" hauteur="30">Program%20that%20allows%20you%20to%20display%20texts%20or%20graphics%20in%20specific%20formats</element>
+			<element type="1" posx="30" posy="343.6" largeur="104" hauteur="30">viewer</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="284.6" largeur="104" hauteur="30">Shows%20what%20the%20current%20page%20is%20about</element>
+			<element type="1" posx="30" posy="314.6" largeur="104" hauteur="30">Title%20Bar</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="255.6" largeur="104" hauteur="30">Application%20used%20to%20view%20Web%20Pages</element>
+			<element type="1" posx="30" posy="285.6" largeur="104" hauteur="30">Browser</element>
+		</couple>
+		<couple>
+			<element type="0" posx="305" posy="138.6" largeur="104" hauteur="32">Site%20indexing%20millions%20of%20web%20pages</element>
+			<element type="1" posx="30" posy="199.6" largeur="104" hauteur="30">Search%20Engine</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="313.6" largeur="104" hauteur="30">Company%20providing%20Internet%20Access</element>
+			<element type="1" posx="30" posy="141.6" largeur="104" hauteur="30">ISP</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="342.6" largeur="104" hauteur="30">On%2Dline%20discussion</element>
+			<element type="1" posx="30" posy="256.6" largeur="104" hauteur="30">Chat</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="226.6" largeur="104" hauteur="30">Address%20for%20a%20web%20page</element>
+			<element type="1" posx="30" posy="170.6" largeur="104" hauteur="30">URL</element>
+		</couple>
+		<couple>
+			<element type="0" posx="306" posy="197.6" largeur="104" hauteur="30">Unique%20set%20of%20numbers%20for%20a%20server</element>
+			<element type="1" posx="30" posy="112.6" largeur="104" hauteur="30">IP%20address</element>
+		</couple>
+		<couple>
+			<element type="0" posx="305" posy="109.6" largeur="104" hauteur="30">Speed%20of%20the%20internet%20connection</element>
+			<element type="1" posx="30" posy="227.6" largeur="104" hauteur="30">bandwidth</element>
+		</couple>
+	</couples>
+	<titre>Browsing%20the%20Internet%20</titre>
+	<soustitre>More%20keywords%20for%20surfers</soustitre>
+	<nom_exercice>Words%20and%20expressions%20%288%29</nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition</texte_aide>
+</LFIXML>

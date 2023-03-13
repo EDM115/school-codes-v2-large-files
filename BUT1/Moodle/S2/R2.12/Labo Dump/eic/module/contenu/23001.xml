@@ -1,0 +1,49 @@
+<LFIXML type="qcm" contact_url="http://www.laforme.net">
+	<qcm>
+		<question>
+			<enonce>This%20is%20the%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%20processor%20currently%20available</enonce>
+			<choix>
+				<choix type="0">faster</choix>
+				<choix type="1">fastest</choix>
+				<choix type="0">most%20fast</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>No%20other%20motherboard%20is%20as%20reliable%C2%A0%3A%20this%20is%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20reliable%2C%20I%E2%80%99ve%20ever%20seen%2E</enonce>
+			<choix>
+				<choix type="0">the%20more</choix>
+				<choix type="0">most</choix>
+				<choix type="1">the%20most</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>his%20system%20is%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20efficient%20than%20the%20previous%20one%2E</enonce>
+			<choix>
+				<choix type="0">as</choix>
+				<choix type="0">most</choix>
+				<choix type="1">more</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>The%20more%20pixels%20you%20have%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20the%20quality%2E</enonce>
+			<choix>
+				<choix type="0">higher</choix>
+				<choix type="0">the%20highest</choix>
+				<choix type="1">the%20higher</choix>
+			</choix>
+		</question>
+		<question>
+			<enonce>This%20printer%20is%20much%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20the%20old%20one%2E</enonce>
+			<choix>
+				<choix type="0">silenter</choix>
+				<choix type="1">more%20silent</choix>
+				<choix type="0">most%20silent</choix>
+			</choix>
+		</question>
+	</qcm>
+	<titre>Hardware</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Language%20Structures%20%28QCM%29%20%20%20%281%29</nom_exercice>
+	<image_fond>imagefond%252Eswf</image_fond>
+	<texte_aide>Choose%20the%20correct%20form</texte_aide>
+</LFIXML>

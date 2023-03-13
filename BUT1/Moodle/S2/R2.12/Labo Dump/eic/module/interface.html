@@ -1,0 +1,31 @@
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<TITLE>interface</TITLE>
+<script language="JavaScript">
+function openWindow (aFichier) {
+	vWin = 	window.open(aFichier, "fenMedia", "height=500 width=848");
+	vWin.moveTo (this.x+90, this.y+150);
+	vWin.focus();
+}
+function closeWindow () {
+	vWin.close();
+}
+function centerWin () {
+	this.x = (screen.width-1018)/2 - 5;
+	this.y = (screen.height-715)/2 - 27;
+	window.moveTo(this.x, this.y);
+}
+</script>
+</HEAD>
+<BODY bgcolor="#000066" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="centerWin();">
+<!-- URL's used in the movie-->
+<!-- text used in the movie-->
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="1018" HEIGHT="715" id="interface" ALIGN="">
+ <PARAM NAME=movie VALUE="interface.swf"> <PARAM NAME=quality VALUE=high> <PARAM NAME=bgcolor VALUE=#000066> <EMBED src="interface.swf" quality=high bgcolor=#000066  WIDTH="1018" HEIGHT="715" NAME="interface" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+</BODY>
+</HTML>

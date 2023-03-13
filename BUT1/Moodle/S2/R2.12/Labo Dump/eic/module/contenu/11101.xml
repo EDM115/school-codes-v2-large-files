@@ -1,0 +1,40 @@
+<LFIXML type="dnd_categories" contact_url="http://www.laforme.net">
+	<contenu>
+		<categories>
+			<classe type="0">Application</classe>
+			<classe type="1">Data</classe>
+		</categories>
+		<texte>
+			<extrait type="texte">Web%20sites%20hold%20miscellaneous%20types%20of%20contents%2E%20When%20it%20is%20text%2C%20it%20will%20be%20displayed%20by%20your%20browser%20automatically%2E%20You%20may%20sometimes%20be%20required%20to%20adjust%20font%20sizes%20or%20resize%20the%20window%2E%20You%20should%20be%20aware%20that%20web%2Dpages%20are%20created%20and%20meant%20to%20be%20displayed%20at%20specific%20resolutions%2C%20for%20instance%3A%20eight%20hundred%20by%20six%20hundred%20pixels%20%2E%20If%20the%20current%20resolution%20used%20by%20your%20system%20doesn%E2%80%99t%20match%20the%20one%20used%20by%20the%20page%2C%20it%20will%20not%20be%20displayed%20as%20it%20was%20originally%20meant%20to%20be%2E%20The%20other%20problem%20is%20the%20type%20of%20contents%20a%20given%20page%20may%20hold%2E%20Specific%20files%20may%20require%20the%20installation%20of%20applications%20called%20%E2%80%9Cviewers%E2%80%9D%20or%20sometimes%20players%2E%20You%20will%20then%20find%20such%20messages%20as%20%E2%80%9CPlease%20download%20the%20plug%2Din%E2%80%9D%20or%20%E2%80%9CDo%20you%20want%20Explorer%20to%20look%20for%20the%20appropriate%20plug%2Din%20on%20the%20Internet%3F%E2%80%9D%0D%0DPut%20the%20forms%20into%20the%20right%20boxes%2E</extrait>
+			<extrait type="dnd" classe="0">%0D%0DBrowser</extrait>
+			<extrait type="texte">%2C</extrait>
+			<extrait type="dnd" classe="1">Html%20text</extrait>
+			<extrait type="texte">%2C</extrait>
+			<extrait type="dnd" classe="1">%20Jpg%20picture</extrait>
+			<extrait type="texte">%2C</extrait>
+			<extrait type="dnd" classe="0">Media%20Player</extrait>
+			<extrait type="texte">%2C</extrait>
+			<extrait type="dnd" classe="1">Wav%20File</extrait>
+			<extrait type="texte">%2C</extrait>
+			<extrait type="dnd" classe="0">Acrobat%20Reader</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="0">Java%20Applet</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="0">Plug%2Din</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="0">Messenger</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="1">MP3</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="1">PDF</extrait>
+			<extrait type="texte">%2C%20</extrait>
+			<extrait type="dnd" classe="0">Real%20audio</extrait>
+			<extrait type="texte">%2E</extrait>
+		</texte>
+	</contenu>
+	<titre>Browsing%20the%20Internet%20</titre>
+	<soustitre>Page%20display</soustitre>
+	<environnement>Words%20and%20expressions%20%2811%29</environnement>
+	<background>imagefond.swf</background>
+	<texte_aide>Put%20the%20forms%20into%20the%20right%20boxes</texte_aide>
+</LFIXML>

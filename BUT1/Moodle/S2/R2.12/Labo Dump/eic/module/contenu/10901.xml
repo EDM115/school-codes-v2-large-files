@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="49" posy="265.8" largeur="104" hauteur="30">close%0D</element>
+			<element type="1" posx="296" posy="345.8" largeur="104" hauteur="30">open</element>
+		</couple>
+		<couple>
+			<element type="0" posx="596" posy="131.8" largeur="104" hauteur="30">shutdown%0D</element>
+			<element type="1" posx="246" posy="309.8" largeur="104" hauteur="30">boot%2Dup%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="128.8" largeur="104" hauteur="30">abort</element>
+			<element type="1" posx="281" posy="190.8" largeur="104" hauteur="30">start</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="337.8" largeur="104" hauteur="30">hide</element>
+			<element type="1" posx="487" posy="284.8" largeur="103" hauteur="30">show%09</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="408.8" largeur="104" hauteur="30">logout</element>
+			<element type="1" posx="372" posy="141.8" largeur="104" hauteur="30">login</element>
+		</couple>
+		<couple>
+			<element type="0" posx="598" posy="199.8" largeur="104" hauteur="30">disable</element>
+			<element type="1" posx="468" posy="335.8" largeur="104" hauteur="30">enable</element>
+		</couple>
+		<couple>
+			<element type="0" posx="599" posy="337.8" largeur="104" hauteur="30">uncheck</element>
+			<element type="1" posx="381" posy="385.8" largeur="104" hauteur="30">check</element>
+		</couple>
+		<couple>
+			<element type="0" posx="598" posy="267.8" largeur="104" hauteur="30">exclude</element>
+			<element type="1" posx="245" posy="250.8" largeur="104" hauteur="29">include</element>
+		</couple>
+		<couple>
+			<element type="0" posx="597" posy="405.8" largeur="104" hauteur="30">go%20forward</element>
+			<element type="1" posx="481" posy="232.8" largeur="104" hauteur="30">go%20back</element>
+		</couple>
+		<couple>
+			<element type="0" posx="49" posy="193.8" largeur="104" hauteur="30">opt%20out%09</element>
+			<element type="1" posx="453" posy="185.8" largeur="104" hauteur="30">opt%20in%20%09</element>
+		</couple>
+	</couples>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Keywords%20for%20surfers</soustitre>
+	<nom_exercice>Words%20and%20expressions</nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20opposites%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition</texte_aide>
+</LFIXML>

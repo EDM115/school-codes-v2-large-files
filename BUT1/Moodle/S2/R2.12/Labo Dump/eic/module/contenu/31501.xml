@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="332" posy="90.4" largeur="104" hauteur="30">assume</element>
+			<element type="1" posx="375" posy="385.4" largeur="104" hauteur="30">unlawful</element>
+		</couple>
+		<couple>
+			<element type="0" posx="53" posy="381.4" largeur="104" hauteur="30">unlawful</element>
+			<element type="1" posx="232" posy="273.4" largeur="104" hauteur="30">illegal%09</element>
+		</couple>
+		<couple>
+			<element type="0" posx="618" posy="218.4" largeur="104" hauteur="30">to%20take%20legal%20action</element>
+			<element type="1" posx="338" posy="274.4" largeur="104" hauteur="30">to%20sue</element>
+		</couple>
+		<couple>
+			<element type="0" posx="617" posy="145.4" largeur="104" hauteur="30">junk%20mail</element>
+			<element type="1" posx="252" posy="208.4" largeur="104" hauteur="30">spam</element>
+		</couple>
+		<couple>
+			<element type="0" posx="620" posy="380.4" largeur="104" hauteur="30">receiver</element>
+			<element type="1" posx="333" posy="155.4" largeur="104" hauteur="30">recipient</element>
+		</couple>
+		<couple>
+			<element type="0" posx="55" posy="218.4" largeur="104" hauteur="30">answer</element>
+			<element type="1" posx="475" posy="321.4" largeur="104" hauteur="30">reply</element>
+		</couple>
+		<couple>
+			<element type="0" posx="55" posy="142.4" largeur="104" hauteur="30">to%20concentrate</element>
+			<element type="1" posx="438" posy="183.4" largeur="104" hauteur="30">to%20focus</element>
+		</couple>
+		<couple>
+			<element type="0" posx="54" posy="298.4" largeur="104" hauteur="30">publicize</element>
+			<element type="1" posx="492" posy="256.4" largeur="104" hauteur="30">broadcast</element>
+		</couple>
+		<couple>
+			<element type="0" posx="619" posy="300.4" largeur="104" hauteur="30">to%20prevent</element>
+			<element type="1" posx="264" posy="343.4" largeur="104" hauteur="30">to%20stop%20</element>
+		</couple>
+	</couples>
+	<titre>Email%20%20%20%20%20%20%20%20</titre>
+	<soustitre>Words%20and%20expressions%20%20%284%29</soustitre>
+	<nom_exercice>Words%20and%20expressions</nom_exercice>
+	<image_fond>imagedefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20definitions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%20or%20synonym%2E</texte_aide>
+</LFIXML>

@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">You%20need%20to%20install%20a%20specific%20application%20to%20use%20webmail</enonce>
+		<enonce type="1">You%20don%27t%20need%20to%20use%20your%20own%20PC%20to%20use%20webmail</enonce>
+		<enonce type="0">Webmail%20features%20are%20limited%20when%20compared%20to%20traditional%20mail%20applications%2E</enonce>
+		<enonce type="1">Many%20webmail%20services%20scan%20messages%20for%20viruses%2E</enonce>
+	</propositions>
+	<titre>Email%20%20</titre>
+	<soustitre>Webmail</soustitre>
+	<nom_exercice>Listening%20%20%20%2803%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>Sons%2FS030301%2Eswf</url_son><decoupe_son>1,120,234,344,413,518,601,680,747</decoupe_son><texte>%5F%5FWebmail%20is%20getting%20more%20and%20more%20popular%2C%20as%20people%20tend%20to%20read%20their%20emails%20from%20various%20locations%20such%20as%20cyber%20caf%C3%A9s%2C%20or%20corporate%20computers%2E%20%5F%5FTo%20make%20this%20possible%2C%20your%20email%20messages%20have%20been%20translated%20into%20html%20code%2C%20so%20that%20you%20can%20view%20the%20page%20as%20any%20other%20web%20page%2E%20%5F%5FOne%20of%20the%20many%20advantages%20is%20that%20you%20don%27t%20need%20to%20install%20and%20setup%20a%20mail%20%22client%22%20or%20application%20on%20the%20computer%20you%20are%20using%2C%20%5F%5F%20this%20is%20a%20key%20feature%20as%20many%20users%20would%20find%20it%20impossible%20to%20answer%20all%20the%20questions%20asked%2C%5F%5F%20but%20also%20as%20it%20would%20be%20impossible%20to%20allow%20each%20and%20every%20user%20to%20set%20up%20mail%20clients%20on%20computers%2C%20which%20are%20meant%20to%20be%20used%20by%20many%20people%2E%0D%5F%5F%20Another%20advantage%20of%20webmail%20is%20that%20your%20messages%20are%20stored%20on%20the%20email%20provider%27s%20server%2E%5F%5F%20This%20frees%20up%20space%20on%20your%20own%20disk%2C%20saves%20you%20the%20trouble%20of%20backing%20up%20your%20files%20for%20security%20reasons%2E%5F%5F%20Webmail%20also%20provides%20useful%20features%20such%20as%20on%2Dline%20virus%20protection%2C%20folders%2C%20attachments%2C%20and%20multiple%20options%20for%20displaying%20or%20creating%20messages%2E</texte><decoupe_texte>0,148,283,418,516,663,759,868</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="75" posy="46" /><bouton posx="71" posy="76" /><bouton posx="48" posy="107" /><bouton posx="180" posy="122" /><bouton posx="13" posy="168" /><bouton posx="156" posy="184" /><bouton posx="363" posy="199" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

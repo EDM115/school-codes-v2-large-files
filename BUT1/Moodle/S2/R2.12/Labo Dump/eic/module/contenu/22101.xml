@@ -1,0 +1,53 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="635" posy="318.8" largeur="104" hauteur="30">clone</element>
+			<element type="1" posx="353" posy="269.8" largeur="104" hauteur="30">copy</element>
+		</couple>
+		<couple>
+			<element type="0" posx="635" posy="172.8" largeur="104" hauteur="30">manufacturer</element>
+			<element type="1" posx="252" posy="382.8" largeur="104" hauteur="30">maker</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="169.8" largeur="104" hauteur="30">set%20of%20applications</element>
+			<element type="1" posx="495" posy="170.8" largeur="104" hauteur="30">suite</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="322.8" largeur="104" hauteur="30">sell</element>
+			<element type="1" posx="485" posy="382.8" largeur="104" hauteur="30">ship</element>
+		</couple>
+		<couple>
+			<element type="0" posx="637" posy="242.8" largeur="104" hauteur="30">hot%2Dline</element>
+			<element type="1" posx="511" posy="318.8" largeur="104" hauteur="30">help%2Ddesk</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="243.8" largeur="104" hauteur="30">help</element>
+			<element type="1" posx="200" posy="321.8" largeur="104" hauteur="30">support</element>
+		</couple>
+		<couple>
+			<element type="0" posx="635" posy="386.8" largeur="104" hauteur="55">improve%20hardware%20or%20software</element>
+			<element type="1" posx="358" posy="115.8" largeur="104" hauteur="30">upgrade</element>
+		</couple>
+		<couple>
+			<element type="0" posx="52" posy="384.8" largeur="104" hauteur="30">rather</element>
+			<element type="1" posx="200" posy="240.8" largeur="104" hauteur="30">fairly</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="101.8" largeur="104" hauteur="42">characteristics%2F%20functions</element>
+			<element type="1" posx="512" posy="242.8" largeur="104" hauteur="30">features</element>
+		</couple>
+		<couple>
+			<element type="0" posx="635" posy="116.8" largeur="104" hauteur="30">highest%20quality</element>
+			<element type="1" posx="226" posy="168.8" largeur="104" hauteur="30">top%2Dof%2Dthe%2Drange</element>
+		</couple>
+		<couple>
+			<element type="0" posx="635" posy="60.4" largeur="104" hauteur="30">gradually</element>
+			<element type="1" posx="353" posy="418.4" largeur="104" hauteur="30">steadiliy</element>
+		</couple>
+	</couples>
+	<titre>Hardware</titre>
+	<soustitre>Words%20and%20expressions%20%282%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20equivalent%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

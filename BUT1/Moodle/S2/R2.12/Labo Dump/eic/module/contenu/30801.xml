@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Your%20disk%20is%20protected%20from%20outside%20intrusion</enonce>
+		<enonce type="1">emails%20mail%20contain%20%20viruses</enonce>
+		<enonce type="1">Spam%20is%20unsolicited%20advertisement</enonce>
+		<enonce type="1">Companies%20which%20send%20spam%20could%20be%20fined</enonce>
+	</propositions>
+	<titre>Email</titre>
+	<soustitre>Problems%C2%A0%3A%20Netiquette%20%282%29</soustitre>
+	<nom_exercice>Listening%20%20%20%2808%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>Sons%2FS030801%2Eswf</url_son><decoupe_son>1,37,117,219,310,370,439,524,578</decoupe_son><texte>%5F%5FRoutinely%20and%20frequently%20virus%2Dscan%20your%20system%2C%20%5F%5F%20espacially%20when%20receiving%20or%20downloading%20files%20from%20other%20systems%20to%20prevent%20the%20spread%20%20of%20a%20virus%2E%5F%5FYour%20files%20may%20be%20accessible%20by%20persons%20with%20system%20privileges%2C%20so%20do%20not%20maintain%20anything%20private%20in%20your%20disk%20storage%20area%2E%5F%5FUnder%20United%20States%20law%2C%20it%20is%20unlawful%20%E2%80%9Cto%20use%20any%20computer%20to%20send%20an%20unsolicited%20advertisement%5F%5F%20%20to%20any%20%E2%80%9Cequipment%20which%20has%20the%20capacity%20to%20transcribe%20text%20or%20images%20%5F%5Ffrom%20an%20electronic%20signal%20received%20over%20a%20regular%20telephone%20line%20onto%20paper%22%2E%20%5F%5FThe%20law%20allows%20individuals%20to%20sue%20the%20sender%20of%20such%20illegal%20%E2%80%9Cjunk%20mail%E2%80%9D%20%20for%20%24500%20per%20copy%2E%20%5F%5FMost%20states%20will%20permit%20such%20actions%20to%20be%20filed%20in%20Court%2E%5F%5F%20This%20activity%20istermed%20%C2%AB%C2%A0spamming%C2%A0%C2%BB%20on%20the%20Internet%20</texte><decoupe_texte>0,51,154,282,381,455,535,630,690</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="287" posy="15" /><bouton posx="68" posy="46" /><bouton posx="40" posy="76" /><bouton posx="194" posy="92" /><bouton posx="207" posy="107" /><bouton posx="284" posy="122" /><bouton posx="45" posy="153" /><bouton posx="349" posy="153" /></boutons></SONOTEXTE>
+	<image_fond>imagedefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

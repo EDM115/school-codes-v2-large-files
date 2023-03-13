@@ -1,0 +1,16 @@
+<LFIXML type="dnd_image" contact_url="http://www.laforme.net">
+	<couples>
+		<element posx="66" posy="45">To%20write%20a%20new%20message</element>
+		<element posx="5" posy="115">Folders</element>
+		<element posx="14" posy="181">Put%20unwanted%20messages%20here</element>
+		<element posx="-51" posy="45">To%20retrieve%20messages</element>
+		<element posx="143" posy="123">Thumbnails</element>
+		<element posx="271" posy="46">Place%20Spam%20messages%20here</element>
+	</couples>
+	<imageCibleDrop>Images%2Fmessenger%2Ejpg</imageCibleDrop>
+	<titre>Email</titre>
+	<soustitre>Messenger%20interface</soustitre>
+	<nom_exercice>Drag%20the%20words%20to%20the%20right%20place</nom_exercice>
+	<image_fond></image_fond>
+	<texte_aide>Drag%20the%20words%20to%20the%20right%20place</texte_aide>
+</LFIXML>

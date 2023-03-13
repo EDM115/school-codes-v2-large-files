@@ -1,0 +1,13 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">The%20Web%20means%20the%20Internet%2E</enonce>
+		<enonce type="1">Instant%20Messaging%20is%20one%20of%20many%20Internet%20applications%2E</enonce>
+		<enonce type="1">You%20will%20need%20various%20programs%20depending%20on%20what%20you%20want%20to%20do%20on%20the%20Internet%2E</enonce>
+	</propositions>
+	<titre>Browsing%20the%20Internet%20</titre>
+	<soustitre>Introduction%20to%20the%20Internet%20</soustitre>
+	<nom_exercice>Listening%20%281%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS010101%2Eswf</url_son><decoupe_son>1,41,67,119,182,233</decoupe_son><texte>%5F%5FWhat%20does%20the%20word%20%22Internet%22%20refer%20to%20%3F%0D%5F%5FIt%20is%20actually%20made%20up%20of%20many%20different%20things%2E%20%5F%5FThe%20World%2DWide%20Web%2C%20where%20you%20can%20browse%20through%20millions%20of%20pages%20is%20only%20one%20part%2E%20%20%5F%5FE%2Dmail%2C%20Newsgroups%2C%20Instant%20Messenging%20and%20Peer%20to%20Peer%20also%20involve%20using%20the%20Internet%2E%20%0D%5F%5FThe%20Internet%20is%20made%20up%20of%20millions%20of%20computers%20connected%20%20throughout%20the%20world%2E%20%5F%5FSpecific%20applications%20are%20required%20for%20each%20Internet%20use%2E</texte><decoupe_texte>0,43,94,182,274,358</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="272" posy="30" /><bouton posx="13" posy="61" /><bouton posx="13" posy="92" /><bouton posx="128" posy="107" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions%2E</texte_aide>
+</LFIXML>

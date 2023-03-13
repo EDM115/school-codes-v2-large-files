@@ -1,0 +1,40 @@
+<LFIXML type="dnd_categories" contact_url="http://www.laforme.net">
+	<contenu>
+		<categories>
+			<classe type="0">Do</classe>
+			<classe type="1">Don%27t%20do</classe>
+		</categories>
+		<texte>
+			<extrait type="texte">%2D%20</extrait>
+			<extrait type="dnd" classe="0">Delete%20messages%20you%20don%27t%20need%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Create%20folders%20and%20sort%20out%20your%20mail%20regularly%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Give%20your%20password%20to%20your%20system%20administrator%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Compress%20large%20files%20before%20attaching%20them%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Save%20large%20attachments%20files%20in%20specific%20folders%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Scan%20your%20email%20folders%20with%20an%20anti%2Dvirus%20program%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Send%20an%20unsolicited%20advertisement%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Think%20your%20email%20is%20private%20and%20no%20one%20else%20will%20ever%20see%20it%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Choose%20a%20subject%20that%20really%20matches%20the%20content%20of%20your%20message%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="0">Include%20your%20signature%20at%20the%20bottom%20of%20the%20message%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Send%20large%20attachments%20without%20knowing%20how%20much%20space%20your%20recipient%27s%20mail%20box%20is%20allowed%2E</extrait>
+			<extrait type="texte">%0D%2D%20</extrait>
+			<extrait type="dnd" classe="1">Use%20upper%20case%20characters%20for%20whole%20words%20unless%20to%20highlight%20points%2E</extrait>
+			<extrait type="texte">%0D</extrait>
+		</texte>
+	</contenu>
+	<titre>Email</titre>
+	<soustitre>Do%20or%20don%27t%20%E2%80%A6%2801%29</soustitre>
+	<environnement>Words%20and%20expressions</environnement>
+	<background>imagedefond.swf</background>
+	<texte_aide>Put%20the%20forms%20into%20the%20right%20boxes</texte_aide>
+</LFIXML>

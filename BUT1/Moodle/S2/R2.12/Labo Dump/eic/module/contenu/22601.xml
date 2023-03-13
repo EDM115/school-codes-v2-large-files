@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="200" posy="208.4" largeur="104" hauteur="30">Piece%20of%20hardware%20where%20adapters%2C%20the%20%20RAM%2C%20and%20the%20processor%20are%20implanted%20%2E%20</element>
+			<element type="1" posx="50" posy="248.4" largeur="104" hauteur="30">sons%2FS022601%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="368.4" largeur="104" hauteur="30">Standard%20for%20fast%20professionnal%20hardaware%20interfaces</element>
+			<element type="1" posx="50" posy="288.4" largeur="104" hauteur="30">sons%2FS022602%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="88.4" largeur="104" hauteur="30">Send%20video%20signals%20to%20the%20monitor</element>
+			<element type="1" posx="50" posy="368.4" largeur="104" hauteur="30">sons%2FS022603%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="328.4" largeur="104" hauteur="30">Device%20allowing%20users%20to%20copy%20or%20%22burn%22%20cd%27s</element>
+			<element type="1" posx="50" posy="128.4" largeur="104" hauteur="30">sons%2FS022604%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="128.4" largeur="104" hauteur="30">Peripheral%20allowing%20you%20to%20digitise%20graphics%20or%20texts</element>
+			<element type="1" posx="50" posy="208.4" largeur="104" hauteur="30">sons%2FS022605%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="168.4" largeur="104" hauteur="30">Portable%20computer</element>
+			<element type="1" posx="50" posy="88.4" largeur="104" hauteur="30">sons%2FS022606%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="248.4" largeur="104" hauteur="30">Piece%20of%20hardware%20allowing%20internal%20data%20transfer</element>
+			<element type="1" posx="50" posy="168.4" largeur="104" hauteur="30">sons%2FS022607%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="288.4" largeur="104" hauteur="30">Provides%20data%20to%20a%20%22client%22%20computer</element>
+			<element type="1" posx="50" posy="328.4" largeur="104" hauteur="30">sons%2FS022608%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="408.4" largeur="104" hauteur="30">Small%20handheld%20computer</element>
+			<element type="1" posx="50" posy="408.4" largeur="104" hauteur="30">sons%2FS022609%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Hardware%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20Soundlink%20%20%287%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20match%20the%20definitions%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

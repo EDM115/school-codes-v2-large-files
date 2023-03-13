@@ -1,0 +1,13 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Most%20web%20pages%20can%20be%20used%20the%20same%20way</enonce>
+		<enonce type="0">The%20time%20you%20have%20to%20wait%20to%20view%20a%20page%20is%20always%20the%20same</enonce>
+		<enonce type="1">ADSL%20is%20a%20way%20to%20connect%20to%20the%20Internet%20</enonce>
+	</propositions>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>From%20one%20page%20to%20another%20</soustitre>
+	<nom_exercice>Listening%20%283%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>SONS%2FS010301%2Eswf</url_son><decoupe_son>1,36,68,114,157,195,329,415,516</decoupe_son><texte>%5F%5FDo%20most%20web%20pages%20%E2%80%9Cwork%E2%80%9D%20the%20same%20way%20%3F%0D%5F%5FVery%20much%20so%2C%20yes%2C%20definitely%2E%20%5F%5FThe%20top%20of%20the%20page%20contains%20the%20URL%20which%20means%20the%20web%2Dsite%20address%2E%20%5F%5FYou%20may%20click%20on%20it%20and%20then%20edit%20it%20at%20will%20and%20then%20hit%20the%22return%20key%22%2E%20%5F%5FYou%20will%20then%20have%20to%20wait%20for%20your%20page%20to%20load%2E%20%0D%5F%5FThe%20actual%20time%20your%20page%20will%20take%20to%20load%20depends%20on%20many%20different%20factors%20such%20as%20your%20connection%20speed%20%3A%20are%20you%20using%20a%20modem%20connection%2C%20ADSL%2C%20a%20corporate%20LAN%20%20connection%3F%20%0D%5F%5FBut%20speed%20also%20depends%20on%20how%20busy%20the%20Internet%20currently%20is%2C%20and%20how%20powerful%20the%20server%20you%20are%20downloading%20data%20from%20is%2E%20%5F%5FOne%20key%20factor%20is%20also%20how%20fast%20your%20ISP%20is%2C%20which%20means%20what%20bandwidth%20you%20are%20actually%20allowed%20to%20use%20at%20that%20particular%20time%2E%20%0D%5F%5FAnd%20remember%20access%2Dtime%20is%20always%20longer%20when%20America%20is%20awake%2E</texte><decoupe_texte>0,42,75,148,225,278,460,586,718</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="185" posy="30" /><bouton posx="230" posy="46" /><bouton posx="228" posy="61" /><bouton posx="13" posy="92" /><bouton posx="13" posy="138" /><bouton posx="325" posy="153" /><bouton posx="13" posy="199" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%252Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

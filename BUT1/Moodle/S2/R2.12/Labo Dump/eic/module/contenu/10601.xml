@@ -1,0 +1,23 @@
+<LFIXML type="dnd_tableau" contact_url="http://www.laforme.net">
+	<tableaux>
+		<tableau>
+			<element>Start%20the%20browser</element>
+			<element>Type%20the%20URL%20for%20your%20favourite%20search%20engine</element>
+			<element>Enter%20a%20keyword</element>
+			<element>Read%20through%20displayed%20results</element>
+			<element>Click%20on%20the%20appropriate%20link</element>
+			<element>Wait%20for%20graphics%20to%20display</element>
+			<element>View%20the%20page</element>
+			<element>Bookmark%20the%20page</element>
+			<element>Close%20the%20browser</element>
+		</tableau>
+	</tableaux>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>What%20do%20I%20do%20first%20%3F</soustitre>
+	<nom_exercice></nom_exercice>
+	<typage1>first%20to%20do</typage1>
+	<typage2>last%20to%20do</typage2>
+	<contexte>When%20you%20want%20to%20find%20a%20web%20site%20you%20have%20to%20do%20several%20operations%2E%0DDrag%20and%20drop%20the%20%20sentences%20in%20the%20correct%20order%2E</contexte>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Place%20the%20words%20in%20the%20correct%20order</texte_aide>
+</LFIXML>

@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">You%20may%20email%20the%20Manager%20of%20your%20company%20directly%20%20if%20you%20wish%20to%2E</enonce>
+		<enonce type="1">You%20should%20ask%20for%20the%20sender%27s%20permission%20before%20fowarding%20messages%20to%20groups%20of%20people%2E</enonce>
+		<enonce type="1">On%20emails%20jokes%20may%20be%20misinterpreted%2E</enonce>
+		<enonce type="1">You%20should%20try%20not%20to%20use%20too%20many%20acronyms%2E</enonce>
+	</propositions>
+	<titre>Email%20</titre>
+	<soustitre>Netiquette%20%285%29</soustitre>
+	<nom_exercice>Listening%20%20%20%2811%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS031101%2Eswf</url_son><decoupe_son>1,48,124,168,197,273,370,432,478,537,589,632</decoupe_son><texte>%5F%5FFollow%20chain%20of%20command%20procedures%20for%20corresponding%20with%20superiors%2E%20%5F%5FFor%20example%2C%20don%E2%80%99t%20send%20a%20complaint%20via%20Email%20directly%20to%20the%20%E2%80%9Ctop%E2%80%9D%20just%20because%20you%20can%2E%20%5F%5FBe%20professional%20and%20careful%20what%20you%20say%20about%20others%2E%20%5F%5FEmail%20is%20easily%20forwarded%2E%20%5F%5FCite%20all%20quotes%2C%20references%20and%20sources%20and%20respect%20copyright%20and%20license%20agreements%2E%20%5F%5FIt%20is%20considered%20extremely%20rude%20to%20%20%20forward%20personal%20email%20to%20mailing%20lists%20without%20the%20original%20author%E2%80%99s%20permission%2E%20%5F%5FAttaching%20return%20receipts%20to%20a%20message%20may%20be%20considered%20an%20invasion%20of%20privacy%2E%20%5F%5FBe%20careful%20when%20using%20sarcasm%20and%20humour%2E%5F%5FWithout%20face%20to%20face%20communications%20your%20joke%20may%20be%20viewed%20as%20criticism%2E%5F%5F%20When%20being%20humorous%2C%20use%20emoticons%20to%20express%20humor%2E%2E%20%5F%5FAcronyms%20can%20be%20used%20to%20abbreviate%20when%20possible%2C%20%5F%5Fhowever%20messages%20that%20are%20filled%20with%20acronyms%20can%20be%20confusing%20and%20annoying%20to%20the%20reader%2E%20</texte><decoupe_texte>0,71,163,220,249,337,458,541,584,659,716,768</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="69" posy="30" /><bouton posx="179" posy="46" /><bouton posx="108" posy="61" /><bouton posx="260" posy="61" /><bouton posx="13" posy="92" /><bouton posx="250" posy="107" /><bouton posx="314" posy="122" /><bouton posx="192" posy="138" /><bouton posx="300" posy="153" /><bouton posx="255" posy="168" /><bouton posx="168" posy="184" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">Email%20is%20mostly%20used%20by%20people%20working%20in%20computing%20</enonce>
+		<enonce type="1">Current%20operating%20systems%20often%20include%20email%20programs</enonce>
+		<enonce type="1">Spamming%20is%20one%20of%20the%20main%20problems%20of%20email%20systems</enonce>
+		<enonce type="1">A%20password%20provides%20privacy%20</enonce>
+		<enonce type="0">You%20can%20choose%20your%20default%20password%2E</enonce>
+	</propositions>
+	<titre>Email</titre>
+	<soustitre>Email%20basics%20</soustitre>
+	<nom_exercice>Listening%20%2801%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>Sons%2FS030101%2Eswf</url_son><decoupe_son>1,32,98,160,264,319,437,502,612,733,794</decoupe_son><texte>%5F%5FEmail%20has%20become%20part%20of%20our%20lives%2E%0D%5F%5FThere%20are%20just%20so%20many%20ways%20it%20is%20being%20used%20that%20listing%20them%20all%20would%20be%20an%20impossible%20job%2E%20%5F%5FFrom%20sending%20a%20plain%20text%20message%2C%20to%20attaching%20various%20types%20of%20documents%2C%20%5F%5Fstudents%2C%20secretaries%2C%20engineers%2C%20and%20most%20corporate%20workers%20have%20all%20got%20used%20to%20communicating%20with%20this%20new%20indispensable%20tool%2E%20%5F%5FIt%20has%20almost%20completely%20replaced%20faxes%20in%20less%20than%20a%20decade%2E%20%5F%5FIt%20is%20fast%2C%20free%2C%20reliable%2C%20and%20although%20there%20still%20remains%20some%20problems%20to%20be%20solved%2C%20such%20as%20viruses%2C%20privacy%20concerns%2C%20and%20spamming%2C%20%5F%5Fit%20is%20steadily%20becoming%20a%20universally%20acknowledged%20means%20of%20exchanging%20data%2E%5F%5FMost%20computers%20come%20with%20email%20applications%20already%20installed%2C%20so%20that%20all%20you%20need%20to%20do%20is%20set%20up%20an%20account%20to%20get%20started%2E%20%5F%5FThis%20will%20usually%20mean%20you%20have%20to%20input%20your%20email%20address%2C%20and%20choose%20a%20password%2C%20so%20that%20you%2C%20and%20only%20you%20will%20have%20access%20to%20your%20messages%2E%20%5F%5FBut%20if%20you%20are%20working%20in%20a%20company%2C%20the%20odds%20are%20somebody%20has%20already%20done%20this%20for%20you%2C%5F%5F%20and%20all%20you%20will%20have%20to%20do%20is%20double%2Dclick%20on%20that%20icon%20in%20the%20toolbar%20and%20change%20your%20default%20password%2E%20</texte><decoupe_texte>0,38,135,213,345,410,550,628,757,904,995</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="163" posy="46" /><bouton posx="217" posy="61" /><bouton posx="271" posy="92" /><bouton posx="274" posy="107" /><bouton posx="283" posy="138" /><bouton posx="361" posy="153" /><bouton posx="335" posy="184" /><bouton posx="74" posy="230" /><bouton posx="228" posy="245" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

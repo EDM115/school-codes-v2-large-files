@@ -1,0 +1,78 @@
+<LFIXML type="dnd_texte_texte" contact_url="http://www.laforme.net">
+	<contenu>
+		<legende />
+		<contexte />
+		<textedrop posx="29" posy="228" largeur="716" hauteur="166">
+			<extrait type="texte" >Most%20search%20engines%20which%20use%20English%20as%20a%20first%20</extrait>
+			<extrait type="dnd" classe="57">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20should%20also%20be%20able%20to%20find%20</extrait>
+			<extrait type="dnd" classe="17">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%C2%A0%20language%20you%20are%20using%2E%20There%20is%20often%20a%20%22%20</extrait>
+			<extrait type="dnd" classe="25">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20</extrait>
+			<extrait type="texte" >%22%20button%20that%20will%20turn%20pages%20into%20any%20language%20you%20may%20want%20to%20use%2E%20Of%20course%20translators%20are%20never%20a%20hundred%20percent%20</extrait>
+			<extrait type="dnd" classe="1">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E</extrait>
+			<extrait type="texte" >%20and%20you%20may%20very%20well%20end%20up%20trying%20to%20decipher%20a%20lot%20of%20</extrait>
+			<extrait type="dnd" classe="58">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%20</extrait>
+			<extrait type="texte" >%20There%20is%20fierce%20%20</extrait>
+			<extrait type="dnd" classe="32">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20among%20search%20engines%20to%20be%20the%20world%20</extrait>
+			<extrait type="dnd" classe="49">%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%2C%20which%20means%20the%20one%20that%20gets%20the%20most%20%22%20</extrait>
+			<extrait type="dnd" classe="16">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%22%2E%20%20This%20is%20because%20search%20engines%20make%20money%20by%20%20</extrait>
+			<extrait type="dnd" classe="24">%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+			<extrait type="texte" >%20advertising%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20either%20directly%20on%20the%20search%20engine%20page%20or%20by%20launching%20annoying%20</extrait>
+			<extrait type="dnd" classe="41">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20windows%20you%20need%20to%20close%20before%20you%20can%20go%20back%20to%20your%20</extrait>
+			<extrait type="dnd" classe="40">%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E</extrait>
+			<extrait type="texte" >%2E%20Pop%2Dups%20are%20</extrait>
+			<extrait type="dnd" classe="56">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20that%20automatically%20display%20on%20your%20screen%2E%20%20There%20are%20many%20</extrait>
+			<extrait type="dnd" classe="9">%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E</extrait>
+			<extrait type="texte" >%20you%20may%20</extrait>
+			<extrait type="dnd" classe="8">%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E</extrait>
+			<extrait type="texte" >%20that%20prevent%20those%20pages%20from%20displaying%20%3A%20they%20are%20called%20</extrait>
+			<extrait type="dnd" classe="33">%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%E2%80%A6%20%20%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E%2E%2E%20</extrait>
+		</textedrop>
+		<textedrag posx="29" posy="114" largeur="713" hauteur="87">
+			<extrait type="dnd" classe="56">Advertising%20message</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="48">banners</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="40">browsing</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="32">competition</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="24">displaying</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="16">hits</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="8">install</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="57">language</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="49">leader</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="41">pop%2Dup</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="33">pop%2Dup%20stoppers</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="25">translate</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="17">whatever</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="9">utilities</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="1">reliable</extrait>
+			<extrait type="texte" >%2C%20</extrait>
+			<extrait type="dnd" classe="58">gibberish</extrait>
+		</textedrag>
+	</contenu>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Browsing%20on%E2%80%A6</soustitre>
+	<environnement>Words%20and%20expressions</environnement>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20and%20drop%20the%20correct%20forms%20to%20complete%20the%20text</texte_aide>
+</LFIXML>

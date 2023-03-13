@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="511" posy="104" largeur="104" hauteur="30">achieved</element>
+			<element type="1" posx="147" posy="281" largeur="104" hauteur="30">carried%20out</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="171" largeur="104" hauteur="30">clever</element>
+			<element type="1" posx="147" posy="142" largeur="104" hauteur="30">nimble</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="351" largeur="104" hauteur="30">a%20host%20of</element>
+			<element type="1" posx="147" posy="110" largeur="104" hauteur="31">a%20lot%20of</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="207" largeur="104" hauteur="30">bubble</element>
+			<element type="1" posx="147" posy="317" largeur="104" hauteur="30">small%20drop</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="315" largeur="104" hauteur="30">marvel</element>
+			<element type="1" posx="147" posy="179" largeur="104" hauteur="30">wonder</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="136" largeur="104" hauteur="30">unmatched</element>
+			<element type="1" posx="147" posy="388" largeur="104" hauteur="30">that%20has%20no%20equivalent</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="242" largeur="104" hauteur="30">on%20the%20rise</element>
+			<element type="1" posx="147" posy="212" largeur="104" hauteur="30">increasing</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="425" largeur="104" hauteur="30">printout</element>
+			<element type="1" posx="147" posy="352" largeur="104" hauteur="30">hard%20copy</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="280" largeur="104" hauteur="30">plug</element>
+			<element type="1" posx="147" posy="425" largeur="104" hauteur="30">socket</element>
+		</couple>
+		<couple>
+			<element type="0" posx="512" posy="389" largeur="104" hauteur="30">problem</element>
+			<element type="1" posx="147" posy="246" largeur="104" hauteur="30">issue</element>
+		</couple>
+	</couples>
+	<titre>Hardware</titre>
+	<soustitre>Words%20and%20expressions%20%20%2805%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20equivalent%2E</texte_aide>
+</LFIXML>

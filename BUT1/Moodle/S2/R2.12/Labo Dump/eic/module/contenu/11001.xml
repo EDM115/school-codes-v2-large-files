@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='false'>
+		<couple>
+			<element type="0" posx="49" posy="267" largeur="104" hauteur="30">launch%0D</element>
+			<element type="1" posx="296" posy="347" largeur="104" hauteur="30">start</element>
+		</couple>
+		<couple>
+			<element type="0" posx="596" posy="133" largeur="104" hauteur="30">show%0D</element>
+			<element type="1" posx="250" posy="298" largeur="104" hauteur="30">display%0D</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="130" largeur="104" hauteur="30">Hook%2Dup</element>
+			<element type="1" posx="281" posy="192" largeur="104" hauteur="30">connect</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="339" largeur="104" hauteur="30">Visit%20a%20site%20</element>
+			<element type="1" posx="456" posy="272" largeur="103" hauteur="30">Log%20on%20to%20a%20site</element>
+		</couple>
+		<couple>
+			<element type="0" posx="50" posy="410" largeur="104" hauteur="30">choose</element>
+			<element type="1" posx="372" posy="143" largeur="104" hauteur="30">select</element>
+		</couple>
+		<couple>
+			<element type="0" posx="598" posy="201" largeur="104" hauteur="30">allow</element>
+			<element type="1" posx="468" posy="337" largeur="104" hauteur="30">enable</element>
+		</couple>
+		<couple>
+			<element type="0" posx="599" posy="339" largeur="104" hauteur="30">busy</element>
+			<element type="1" posx="364" posy="379" largeur="104" hauteur="30">unavailable</element>
+		</couple>
+		<couple>
+			<element type="0" posx="598" posy="269" largeur="104" hauteur="30">add</element>
+			<element type="1" posx="245" posy="252" largeur="104" hauteur="29">include</element>
+		</couple>
+		<couple>
+			<element type="0" posx="597" posy="407" largeur="104" hauteur="30">release</element>
+			<element type="1" posx="471" posy="212" largeur="104" hauteur="30">version</element>
+		</couple>
+	</couples>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Keywords%20for%20surfers</soustitre>
+	<nom_exercice>Words%20and%20expressions</nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20with%20their%20synonyms%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition</texte_aide>
+</LFIXML>

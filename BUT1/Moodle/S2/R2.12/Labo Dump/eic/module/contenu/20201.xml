@@ -1,0 +1,15 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">A%20clone%20is%20a%20PC%20which%20is%20made%20up%20of%20components%20of%20your%20choosing</enonce>
+		<enonce type="0">A%20%E2%80%9Cpackage%E2%80%9D%20only%20%20includes%20hardware</enonce>
+		<enonce type="1">A%20hot%2Dline%20offers%20help%20to%20PC%20users</enonce>
+		<enonce type="1">Fitting%20in%20a%20new%2C%20faster%20processor%20is%20one%20way%20to%20upgrade</enonce>
+		<enonce type="0">Upgrading%20is%20always%20cheaper</enonce>
+	</propositions>
+	<titre>Hardware</titre>
+	<soustitre>Purchasing</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS020201%2Eswf</url_son><decoupe_son>1,23,117,311,515,620,736,824</decoupe_son><texte>%5F%5FWhere%20should%20I%20buy%20%3F%20%0D%5F%5FWhereas%20not%20so%20long%20ago%20people%20used%20to%20turn%20to%20their%20local%20retailers%20and%20asked%20them%20to%20assemble%20computers%20called%20clones%2C%20%5F%5Fmany%20PC%20makers%20now%20provide%20ready%2Dto%20use%20PCs%20which%20are%20called%20%E2%80%9Cbuilt%2Dto%2Dorder%E2%80%9D%20which%20means%20you%20may%20pick%20out%20just%20the%20ideal%20configuration%20for%20you%20as%20you%20order%20your%20equipment%20on%2Dline%20by%20checking%20boxes%20on%20the%20manufacturer%E2%80%99s%20web%2Dpage%20or%20on%20the%20phone%2E%20%5F%5FMany%20PC%20manufacturers%20provide%20bundles%2C%20which%20not%20only%20include%20the%20computer%20itself%2C%20but%20software%20packages%20with%20pre%2Dinstalled%20operating%20systems%2C%20office%2Dsuites%20including%20word%2Dprocessors%2C%20spreadsheets%2C%20sometimes%20games%2C%20and%20encyclopaedias%2E%20%5F%5FIn%20addition%2C%20the%20companies%20which%20ship%20these%20bundles%20offer%20hotlines%2C%20so%20that%20you%E2%80%99ll%20get%20free%20support%2C%20in%20case%20anything%20should%20go%20wrong%2E%20%5F%5FOne%20question%20you%20may%20also%20ask%20yourself%20if%20you%20already%20have%20a%20PC%20is%20%3A%20%E2%80%9CShould%20I%20upgrade%2C%20or%20should%20I%20buy%20a%20brand%2Dnew%20system%3F%E2%80%9D%2E%20%5F%5FIf%20your%20system%20is%20fairly%20recent%2C%20then%20it%20might%20be%20worth%20getting%20a%20new%20processor%2C%20adding%20more%20RAM%2C%20or%20a%20new%20hard%20disk%2E%20%0D%5F%5FOtherwise%20it%20might%20not%20be%20worth%20the%20expense%2C%20and%20buying%20a%20whole%20new%20system%20may%20be%20the%20best%20option%20for%20you%2C%20and%20sometimes%20you%20may%20end%2Dup%20spending%20less%2E%0D</texte><decoupe_texte>0,24,147,395,632,769,897,1018</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="304" posy="46" /><bouton posx="241" posy="107" /><bouton posx="102" posy="168" /><bouton posx="107" posy="199" /><bouton posx="68" posy="230" /><bouton posx="13" posy="260" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

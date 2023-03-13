@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="200" posy="246" largeur="104" hauteur="30">Device%20placed%20between%20computers%20and%20phone%20lines%2E</element>
+			<element type="1" posx="50" posy="406" largeur="104" hauteur="30">sons%2FS022501%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="86" largeur="104" hauteur="30">Device%20used%20for%20sound%20managing%20on%20PC%27s</element>
+			<element type="1" posx="50" posy="86" largeur="104" hauteur="30">sons%2FS022502%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="286" largeur="104" hauteur="30">Device%20used%20to%20cool%20down%20processors%2E</element>
+			<element type="1" posx="50" posy="366" largeur="104" hauteur="30">sons%2FS022503%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="206" largeur="104" hauteur="30">Expresses%20the%20graphic%20quality%20of%20screens%2C%20graphic%20adapters%2C%20printers%20in%20pixel%20or%20dot%20per%20inches</element>
+			<element type="1" posx="50" posy="326" largeur="104" hauteur="30">sons%2FS022504%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="326" largeur="104" hauteur="30">External%20piece%20of%20hardware</element>
+			<element type="1" posx="50" posy="286" largeur="104" hauteur="30">sons%2FS022505%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="126" largeur="104" hauteur="30">Found%20on%20motherboards%2C%20they%20allows%20you%20to%20insert%20more%20devices%20on%20your%20computer%2E</element>
+			<element type="1" posx="50" posy="206" largeur="104" hauteur="30">sons%2FS022506%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="366" largeur="104" hauteur="30">Memory%20used%20to%20allow%20faster%20data%20exchange%20and%20avoid%20useless%20data%20transfer%2E</element>
+			<element type="1" posx="50" posy="166" largeur="104" hauteur="30">sons%2FS022507%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="406" largeur="104" hauteur="30">Musical%20interface</element>
+			<element type="1" posx="50" posy="126" largeur="104" hauteur="30">sons%2FS022508%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="166" largeur="693" hauteur="30">New%20standard%20for%20peripheral%20communication%20allowing%20%22Hot%22%20plug%2Din%20of%20devices%20</element>
+			<element type="1" posx="50" posy="246" largeur="104" hauteur="30">sons%2FS022509%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Hardware%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20Soundlink%20%20%286%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20Match%20the%20definitions%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>

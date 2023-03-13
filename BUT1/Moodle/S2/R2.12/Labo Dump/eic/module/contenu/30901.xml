@@ -1,0 +1,13 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">You%20may%20have%20to%20give%20system%20administrators%20your%20password%20when%20you%20need%20help</enonce>
+		<enonce type="1">Your%20messages%20could%20be%20read%20by%20other%20people</enonce>
+		<enonce type="1">You%20should%20try%20to%20make%20messages%20as%20short%20as%20possible%2E</enonce>
+	</propositions>
+	<titre>Email%20</titre>
+	<soustitre>Netiquette%20%283%29</soustitre>
+	<nom_exercice>Listening%20%289%29</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS030901%2Eswf</url_son><decoupe_son>1,51,161,245,302,352,417,508</decoupe_son><texte>%5F%5FNever%20give%20your%20user%20ID%20or%20password%20to%20another%20person%2E%20%5F%5FSystem%20administrators%20that%20need%20to%20access%20your%20account%20for%20maintenance%2C%20or%20to%20correct%20problems%20will%20have%20full%20privileges%20to%20your%20account%2E%5F%5FNever%20assume%20your%20email%20messages%20are%20private%2C%20nor%20that%20they%20can%20be%20read%20by%20only%20yourself%20or%20the%20recipient%2E%20%5F%5FNever%20send%20something%20that%20you%20would%20mind%20seeing%20on%20the%20eveningnews%2E%20%5F%5FKeep%20paragraphs%20and%20messages%20short%20and%20to%20the%20point%2E%5F%5FWhen%20quoting%20another%20person%2C%20edit%20out%20whatever%20isn%E2%80%99t%20directly%20applicable%20to%20your%20reply%2E%20%5F%5FDon%E2%80%99t%20let%20your%20mailing%20software%20automatically%20quote%20the%20entire%20body%20of%20messages%20you%20are%20replying%20to%20when%20it%E2%80%99s%20not%20necessary%2E%20%5F%5FTake%20the%20time%20to%20edit%20any%20quotations%20down%20to%20the%20minimum%20necessary%20to%20provide%20context%20for%20your%20reply%2E</texte><decoupe_texte>0,57,196,305,375,429,519,646</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="324" posy="15" /><bouton posx="312" posy="46" /><bouton posx="169" posy="76" /><bouton posx="194" posy="92" /><bouton posx="128" posy="107" /><bouton posx="260" posy="122" /><bouton posx="202" posy="153" /></boutons></SONOTEXTE>
+	<image_fond></image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

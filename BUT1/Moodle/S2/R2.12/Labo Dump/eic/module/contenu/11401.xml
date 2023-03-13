@@ -1,0 +1,62 @@
+<LFIXML type="dnd_texte_texte" contact_url="http://www.laforme.net">
+	<contenu>
+		<legende />
+		<contexte />
+		<textedrop posx="29" posy="228" largeur="716" hauteur="113">
+			<extrait type="texte" >You%20may%20use%20a%20</extrait>
+			<extrait type="dnd" classe="57">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20to%20replace%20any%20</extrait>
+			<extrait type="dnd" classe="25">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20The%20top%20of%20the%20page%20contains%20the%20</extrait>
+			<extrait type="dnd" classe="41">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20</extrait>
+			<extrait type="texte" >%20%20Some%20results%20may%20lead%20you%20to%20pages%20that%20no%20longer%20</extrait>
+			<extrait type="dnd" classe="40">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20%20In%20that%20case%20you%20will%20get%20the%20famous%20</extrait>
+			<extrait type="dnd" classe="56">%20%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20which%20means%20you%20were%20directed%20to%20a%20faulty%20</extrait>
+			<extrait type="dnd" classe="8">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%20</extrait>
+			<extrait type="texte" >%20%20Some%20answers%20may%20prove%20totally%20</extrait>
+			<extrait type="dnd" classe="16">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20which%20means%20they%20have%20nothing%20to%20do%20with%20what%20you%20are%20</extrait>
+			<extrait type="dnd" classe="49">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20Web%2Dpages%20are%20not%20always%20</extrait>
+			<extrait type="dnd" classe="33">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%2Eby%20their%20creators%2C%20and%20in%20any%20case%2C%20remember%20the%20</extrait>
+			<extrait type="dnd" classe="24">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20%20you%20get%20on%20websites%20is%20not%20always%20</extrait>
+			<extrait type="dnd" classe="32">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6</extrait>
+			<extrait type="texte" >%20to%20be%20a%20hundred%20percent%20</extrait>
+			<extrait type="dnd" classe="48">%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%E2%80%A6%2E</extrait>
+		</textedrop>
+		<textedrag posx="29" posy="114" largeur="713" hauteur="87">
+			<extrait type="dnd" classe="56">404%20error</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="48">accurate</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="40">exist</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="32">guaranteed</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="24">information</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="16">irrelevant</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="8">link</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="57">wildcard</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="49">looking%20for</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="41">title</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="33">updated</extrait>
+			<extrait type="texte" >%2C</extrait>
+			<extrait type="dnd" classe="25">character</extrait>
+		</textedrag>
+	</contenu>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Keep%20on%20surfing%E2%80%A6</soustitre>
+	<environnement>Words%20and%20expressions</environnement>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20and%20drop%20the%20correct%20forms%20to%20complete%20the%20text</texte_aide>
+</LFIXML>

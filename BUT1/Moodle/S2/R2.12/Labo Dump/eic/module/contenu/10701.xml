@@ -1,0 +1,18 @@
+<LFIXML type="dnd_image" contact_url="http://www.laforme.net">
+	<couples>
+		<element posx="200" posy="160">Type%20your%20keyword%20here</element>
+		<element posx="547" posy="159">%09To%20refine%20your%20criteria</element>
+		<element posx="427" posy="159">To%20launch%20the%20search</element>
+		<element posx="187" posy="44">URL</element>
+		<element posx="67" posy="41">To%20update%20the%20page</element>
+		<element posx="317" posy="159">To%20specify%20search%20area</element>
+		<element posx="12" posy="-1">Page%20title</element>
+		<element posx="-53" posy="41">To%20access%20previous%20page</element>
+	</couples>
+	<imageCibleDrop>Images%2FYahoo%2Ejpg</imageCibleDrop>
+	<titre>Browsing%20the%20Internet</titre>
+	<soustitre>Page%20Instructions</soustitre>
+	<nom_exercice>Words%20and%20expressions%20%287%29</nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Drag%20the%20words%20to%20the%20right%20place</texte_aide>
+</LFIXML>

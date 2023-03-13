@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="0">WIFI%20is%20a%20hundred%20percent%20secure</enonce>
+		<enonce type="0">WIFI%20is%20the%20only%20wireless%20technology%20currently%20available</enonce>
+		<enonce type="1">WIFI%20has%20a%20far%20wider%20range%20than%20Bluetooth</enonce>
+		<enonce type="1">WIFI%20is%20a%20means%20to%20connect%20to%20the%20Internet</enonce>
+	</propositions>
+	<titre>Hardware</titre>
+	<soustitre>WIFI%20or%20Bluetooth</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS021301%2Eswf</url_son><decoupe_son>1,154,238,311,435,574,740,838</decoupe_son><texte>%5F%5FDo%20you%20want%20to%20enter%20the%20wireless%20world%20%3F%20Fancy%20keeping%20up%20with%20the%20latest%20news%20while%20waiting%20in%20the%20bus%20queue%3F%20How%20about%20surfing%20the%20web%20from%20your%20garden%2C%20or%20on%20the%20subway%20%3F%20WIFI%20is%20the%20answer%2E%20%5F%5FYou%20might%20need%20to%20install%20a%20wireless%20network%2C%20or%20use%20the%20one%20already%20installed%20at%20your%20workplace%2E%20%5F%5FThere%20are%20many%20Bluetooth%20devices%20available%3A%20headphones%2C%20PDAs%2C%20MP3%20players%2E%20%5F%5FWhereas%20Bluetooth%20technology%20will%20keep%20you%20tied%20to%20your%20office%2C%20WIFI%20allows%20much%20wider%20coverage%2C%20something%20around%20two%20or%20three%20hundred%20meters%2E%20%5F%5FThat%20means%20you%20can%20not%20only%20access%20your%20files%20anywhere%2C%20provided%20you%20are%20within%20range%20of%20a%20transmitter%2C%20but%20also%20e%2Dmail%20your%20friends%20and%20colleagues%20from%20any%20spot%20of%20your%20choosing%2E%20%5F%5FVarious%20types%20of%20WIFI%20are%20currently%20available%20and%20you%20will%20have%20to%20opt%20for%20A%2C%20B%2C%20G%2C%20G%2B%20or%20N%2C%20according%20to%20your%20needs%20and%20to%20how%20much%20you%20or%20your%20employer%20is%20willing%20to%20spend%2E%20%5F%5FWimax%20or%20Ultrawide%20band%20will%20provide%20even%20more%20bandwidth%20which%2C%20to%20you%2C%20means%20more%20speed%2E%20%5F%5FCurrent%20issues%20surrounding%20WIFI%20include%20security%20concerns%20as%20hackers%20may%20easily%20gain%20access%20to%20valuable%20corporate%20data%20without%20your%20being%20aware%20of%20it%2E%0D</texte><decoupe_texte>0,197,297,374,519,701,878,970</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="320" posy="46" /><bouton posx="100" posy="76" /><bouton posx="196" posy="92" /><bouton posx="268" posy="122" /><bouton posx="94" posy="168" /><bouton posx="286" posy="199" /><bouton posx="83" posy="230" /></boutons></SONOTEXTE>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

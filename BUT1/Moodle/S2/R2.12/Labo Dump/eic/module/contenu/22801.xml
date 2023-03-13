@@ -1,0 +1,42 @@
+<LFIXML type="dnd_categories" contact_url="http://www.laforme.net">
+	<contenu>
+		<categories>
+			<classe type="0">Input%20device</classe>
+			<classe type="1">Output%20device</classe>
+			<classe type="2">Fixed%20storage%20device</classe>
+			<classe type="3">Removable%20storage%20device</classe>
+		</categories>
+		<texte>
+			<extrait type="texte">Computer%20devices%20may%20be%20classified%20as%20input%20devices%20which%20means%20they%20allow%20information%20to%20enter%20the%20computer%20through%20various%20ports%20such%20as%20USB%2C%20serial%2C%20parallel%2C%20PCMCIA%20or%20PS%2F2%2E%20They%20are%20the%20opposite%20of%20output%20devices%20which%20let%20data%20out%2E%20Some%20may%20be%20called%20storage%20devices%20as%20they%20allow%20data%20to%20be%20saved%20permanently%2E%20Among%20them%20some%20may%20be%20removed%20so%20as%20to%20be%20read%20on%20other%20computers%2E%20%0D%0DPut%20the%20words%20into%20the%20right%20boxes%20%3A%20%20%20%20%20%0D%0D</extrait>
+			<extrait type="dnd" classe="0">Scanner</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="1">Printer</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="1">Modem</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="0">mouse</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="0">Keyboard</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="1">Monitor</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="3">Floppy%20drive</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="3">USB%20key</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="3">Zip%20Drive</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="2">Hard%20disk</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="3">Flash%20card%20reader</extrait>
+			<extrait type="texte">%2C%0D</extrait>
+			<extrait type="dnd" classe="0">stylus</extrait>
+			<extrait type="texte">%2C</extrait>
+		</texte>
+	</contenu>
+	<titre>Hardware%20%20%20%20%20%20%20%20</titre>
+	<soustitre>Sorting%20out%20peripherals</soustitre>
+	<environnement>Words%20and%20expressions%20%20%281%29</environnement>
+	<background>imagefond.swf</background>
+	<texte_aide>Put%20the%20words%20into%20the%20right%20boxes%2E</texte_aide>
+</LFIXML>

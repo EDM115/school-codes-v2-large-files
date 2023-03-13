@@ -1,0 +1,20 @@
+<LFIXML type="dnd_tableau" contact_url="http://www.laforme.net">
+	<tableaux>
+		<tableau>
+			<element>Supercomputer</element>
+			<element>Mainframe%20computers%2Fservers</element>
+			<element>Desktop%20PC</element>
+			<element>Laptop</element>
+			<element>Tablet%20PC</element>
+			<element>PDA%2F%20Handheld</element>
+		</tableau>
+	</tableaux>
+	<titre>Hardware%20</titre>
+	<soustitre>Sorting%20out%20computers</soustitre>
+	<nom_exercice>Word%20Match</nom_exercice>
+	<typage1>Most%20powerful</typage1>
+	<typage2>Less%20powerful</typage2>
+	<contexte>Sort%20computers%20according%20to%20how%20powerful%20they%20normally%20are%2E</contexte>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Place%20the%20words%20in%20the%20correct%20order</texte_aide>
+</LFIXML>

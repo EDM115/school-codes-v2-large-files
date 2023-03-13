@@ -1,0 +1,14 @@
+<LFIXML type="true_false" contact_url="http://www.laforme.net">
+	<propositions>
+		<enonce type="1">Laptops%20can%20be%20as%20powerful%20as%20desktops</enonce>
+		<enonce type="0">Desktops%20PCs%20are%20as%20silent%20as%20portable%20computers</enonce>
+		<enonce type="1">Centrino%20technology%20provides%20wireless%20access%20capabilities</enonce>
+		<enonce type="1">4X3%20or%2016X9%20refer%20to%20screen%20sizes</enonce>
+	</propositions>
+	<titre>Hardware</titre>
+	<soustitre>Which%20laptop%20%3F</soustitre>
+	<nom_exercice>Listening</nom_exercice>
+<SONOTEXTE posx="5" posy="5" largeur="385" hauteur="300" masque="true" switchmasque="true"><url_son>sons%2FS020301%2Eswf</url_son><decoupe_son>1,18,133,230,345,450,549,596,753,808</decoupe_son><texte>%5F%5FWhich%20laptop%3F%0D%5F%5FLaptops%20are%20steadily%20taking%20over%20desktop%20PCs%2C%20even%20for%20traditional%20tasks%20where%20desktops%20seemed%20to%20be%20the%20one%20irreplaceable%20solution%2E%0D%5F%5FThey%20now%20offer%20very%20similar%20features%20in%20terms%20of%20processing%20power%2C%20storage%20capabilities%20and%20connectivity%20as%20desktops%2E%20%5F%5FMany%20people%20hardly%20ever%20just%20use%20their%20laptops%20as%20a%20computer%20you%20can%20%E2%80%9Ccarry%E2%80%9D%20somewhere%20else%2C%20they%20also%20enjoy%20the%20%E2%80%9Ccool%E2%80%9D%20features%20such%20as%3A%20%5F%5Ffewer%20cables%2C%20less%20noise%2C%20the%20ability%20to%20watch%20your%20favourite%20movie%20in%20bed%20with%20hi%2Dfi%20sound%20quality%20thanks%20to%20top%2Dof%2Dthe%20range%20headphones%2E%20%0D%5F%5FRemember%20battery%20life%20is%20crucial%20if%20you%20are%20going%20to%20use%20your%20portable%20computer%20where%20no%20access%20to%20the%20mains%20is%20available%2E%20%5F%5FThat%E2%80%99s%20where%20processor%20power%20consumption%20comes%20in%2E%20%5F%5FIf%20you%20go%20for%20a%20Centrino%20processor%2C%20you%20will%20not%20only%20have%20access%20to%20WIFI%20connections%20anywhere%20but%20the%20low%20voltage%20will%20also%20ensure%20less%20battery%20use%2C%20and%20therefore%20increase%20autonomy%2E%20%5F%5FAs%20for%20desktop%20PC%E2%80%99s%20you%20should%20not%20disregard%20screens%2E%20%5F%5FMore%20and%20more%20manufacturers%20provide%2016%20X%209%20TFT%20screens%20which%20is%20the%20standard%20for%20movies%2C%20as%20the%20number%20of%20people%20who%20watch%20DVDs%20on%20laptops%20is%20always%20on%20the%20rise%2E%0D</texte><decoupe_texte>0,16,151,271,411,553,678,731,916,972</decoupe_texte><boutons><bouton posx="12" posy="15" /><bouton posx="13" posy="30" /><bouton posx="13" posy="61" /><bouton posx="278" posy="76" /><bouton posx="337" posy="107" /><bouton posx="13" posy="153" /><bouton posx="293" posy="168" /><bouton posx="230" posy="184" /><bouton posx="120" posy="230" /><bouton posx="61" posy="245" /></boutons></SONOTEXTE>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20answer%20the%20questions</texte_aide>
+</LFIXML>

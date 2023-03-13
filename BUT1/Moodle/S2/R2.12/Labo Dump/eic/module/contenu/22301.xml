@@ -1,0 +1,49 @@
+<LFIXML type="dnd_fleche_texte" contact_url="http://www.laforme.net">
+	<couples type="0"  zoneCentreMasquee='true'>
+		<couple>
+			<element type="0" posx="433" posy="264.4" largeur="104" hauteur="30">small</element>
+			<element type="1" posx="130" posy="445.4" largeur="104" hauteur="30">tiny</element>
+		</couple>
+		<couple>
+			<element type="0" posx="433" posy="194.4" largeur="104" hauteur="30">handly</element>
+			<element type="1" posx="130" posy="228.4" largeur="104" hauteur="30">easy%20to%20use</element>
+		</couple>
+		<couple>
+			<element type="0" posx="433" posy="159.4" largeur="104" hauteur="30">useless</element>
+			<element type="1" posx="129" posy="299.4" largeur="104" hauteur="30">superfluouse</element>
+		</couple>
+		<couple>
+			<element type="0" posx="432" posy="228.4" largeur="104" hauteur="30">stored</element>
+			<element type="1" posx="130" posy="193.4" largeur="104" hauteur="30">kept</element>
+		</couple>
+		<couple>
+			<element type="0" posx="433" posy="370.4" largeur="104" hauteur="30">irritating</element>
+			<element type="1" posx="130" posy="410.4" largeur="104" hauteur="30">annoying</element>
+		</couple>
+		<couple>
+			<element type="0" posx="433" posy="334.4" largeur="104" hauteur="30">to%20keep%20away%20from</element>
+			<element type="1" posx="130" posy="265.4" largeur="104" hauteur="30">to%20avoid</element>
+		</couple>
+		<couple>
+			<element type="0" posx="432" posy="300.4" largeur="104" hauteur="30">supply</element>
+			<element type="1" posx="130" posy="157.4" largeur="104" hauteur="30">to%20provide</element>
+		</couple>
+		<couple>
+			<element type="0" posx="432" posy="125.4" largeur="104" hauteur="30">delete</element>
+			<element type="1" posx="129" posy="335.4" largeur="104" hauteur="30">erase</element>
+		</couple>
+		<couple>
+			<element type="0" posx="434" posy="409.4" largeur="104" hauteur="30">match</element>
+			<element type="1" posx="129" posy="123.4" largeur="104" hauteur="30">correspond</element>
+		</couple>
+		<couple>
+			<element type="0" posx="434" posy="444.4" largeur="104" hauteur="41">enhancements</element>
+			<element type="1" posx="129" posy="372.4" largeur="185" hauteur="31">improvements</element>
+		</couple>
+	</couples>
+	<titre>Hardware%20</titre>
+	<soustitre>Words%20and%20expressions%20%20%2804%29</soustitre>
+	<nom_exercice></nom_exercice>
+	<image_fond>imagefond%2Eswf</image_fond>
+	<texte_aide>Match%20the%20words%20and%20expressions%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20equivalent%2E</texte_aide>
+</LFIXML>

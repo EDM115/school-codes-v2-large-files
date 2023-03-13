@@ -1,0 +1,45 @@
+<LFIXML type="dnd_fleche_son" contact_url="http://www.laforme.net">
+	<couples type="2" zoneCentreMasquee="true">
+		<couple>
+			<element type="0" posx="200" posy="326" largeur="104" hauteur="30">Technology%20allowing%20cd%20writing%20applications%20to%20resume%20burning%20after%20accidental%20interuption</element>
+			<element type="1" posx="50" posy="286" largeur="104" hauteur="30">sons%2FS022701%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="366" largeur="104" hauteur="30">Technology%20allowing%20to%20control%20hard%20disks%20simultaneously%20for%20data%20transfer%20rates</element>
+			<element type="1" posx="50" posy="406" largeur="104" hauteur="30">sons%2FS022702%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="246" largeur="104" hauteur="30">The%20%22brain%22%20in%20your%20computer</element>
+			<element type="1" posx="50" posy="166" largeur="104" hauteur="30">sons%2FS022703%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="166" largeur="104" hauteur="30">Get%20data%20from%20the%20server</element>
+			<element type="1" posx="50" posy="326" largeur="104" hauteur="30">sons%2FS022704%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="86" largeur="104" hauteur="30">Type%20of%20display%20used%20for%20laptops%2C%20watches%20and%20electronics%20devices</element>
+			<element type="1" posx="50" posy="246" largeur="104" hauteur="30">sons%2FS022705%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="406" largeur="104" hauteur="30">Very%20small%20piece%20of%20plastic%20and%20metal%20allowing%20you%20to%20configure%20hardware%20manually</element>
+			<element type="1" posx="50" posy="366" largeur="104" hauteur="30">sons%2FS022706%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="206" largeur="583" hauteur="30">Wireless%20technology%20allowing%20devices%20to%20communicate%20within%20a%20ten%2Dmeter%20range</element>
+			<element type="1" posx="50" posy="206" largeur="104" hauteur="30">sons%2FS022707%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="126" largeur="104" hauteur="30">Wireless%20technology%20allowing%20devices%20to%20%20communicate%20by%20waves</element>
+			<element type="1" posx="50" posy="126" largeur="104" hauteur="30">sons%2FS022708%2Eswf</element>
+		</couple>
+		<couple>
+			<element type="0" posx="200" posy="286" largeur="104" hauteur="28">You%20need%20it%20whenever%20you%20install%20a%20new%20peripheral</element>
+			<element type="1" posx="50" posy="86" largeur="104" hauteur="30">sons%2FS022709%2Eswf</element>
+		</couple>
+	</couples>
+	<titre>Hardware%20%20</titre>
+	<soustitre></soustitre>
+	<nom_exercice>Vocabulary%20Soundlink%20%20%288%29</nom_exercice>
+	<image_fond>images%2Fimagefond%2Eswf</image_fond>
+	<texte_aide>Listen%20and%20match%20the%20definitions%20with%20the%20words%20and%20expressions%20you%20hear%20by%20drawing%20an%20arrow%20from%20each%20one%20to%20its%20definition%2E</texte_aide>
+</LFIXML>
