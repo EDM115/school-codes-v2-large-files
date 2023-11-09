@@ -1,0 +1,27 @@
+repo_name: EDM115/school-codes-v2-large-files
+report_id: 5c74b55e4f33821082eafadd628b157f
+repo_type: Public
+timestamp: '2023-11-09T16:06:19+00:00'
+requested_by: EDM115
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: ActionScript
+  description: 'An object-oriented programming language '
+  website_url: http://www.adobe.com/devnet/actionscript.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
