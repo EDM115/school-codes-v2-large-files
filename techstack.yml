@@ -1,11 +1,11 @@
 repo_name: EDM115/school-codes-v2-large-files
-report_id: 5c74b55e4f33821082eafadd628b157f
+report_id: daad6f7db42338c1163b22fb6184765a
 repo_type: Public
-timestamp: '2023-11-09T16:06:19+00:00'
+timestamp: '2023-12-14T09:47:22+00:00'
 requested_by: EDM115
 provider: github
 branch: master
-detected_tools_count: 2
+detected_tools_count: 3
 tools:
 - name: ActionScript
   description: 'An object-oriented programming language '
@@ -25,3 +25,12 @@ tools:
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: BUT1/Moodle/S2/R2.12/Labo Dump/eic/index.html
+  last_updated_by: EDM115
+  last_updated_on: 2023-03-13 19:07:53.000000000 Z
